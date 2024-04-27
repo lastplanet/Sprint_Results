@@ -1,0 +1,23 @@
+name,boat,event,gender,time,type,finish,level,venue,month,day,year,certified,notes,venue.long,race.name
+Aaron Small,K1,200,Men,44.75,final,1st,NA,Bellingham 2016,6,1,2016,no,NA,NA,NA
+Aaron Small,K1,1000,Men,328.55,final,2nd,NA,Bellingham 2016,6,1,2016,no,NA,NA,NA
+Aaron Small; Miles Cross-Whiter,K2,200,Men,41.69,final,2nd,NA,Bellingham 2016,6,1,2016,no,NA,NA,NA
+Aaron Small; Miles Cross-Whiter,K2,500,Men,107.78,final,2nd,NA,Bellingham 2016,6,1,2016,no,NA,NA,NA
+Azusa Murphy,C1,200,Women,59.33,final,1st,NA,Bellingham 2016,6,1,2016,no,NA,NA,NA
+Azusa Murphy,C1,500,Women,148.72,final,1st,NA,Bellingham 2016,6,1,2016,no,NA,NA,NA
+Azusa Murphy; Hana Neutz,C2,200,Women,54.96,final,1st,NA,Bellingham 2016,6,1,2016,no,NA,NA,NA
+Azusa Murphy; Hana Neutz,C2,500,Women,142.44,final,1st,NA,Bellingham 2016,6,1,2016,no,NA,NA,NA
+Einar Ogle,K1,200,Men,81.17,final,3rd,NA,Bellingham 2016,6,1,2016,no,NA,NA,NA
+Einar Ogle,K1,500,Men,179.63,final,2nd,NA,Bellingham 2016,6,1,2016,no,NA,NA,NA
+Einar Ogle,K1,1000,Men,420.56,final,3rd,NA,Bellingham 2016,6,1,2016,no,NA,NA,NA
+Einar Ogle; Liam Jennings,K2,200,Men,55.55,final,2nd,NA,Bellingham 2016,6,1,2016,no,NA,NA,NA
+Einar Ogle; Liam Jennings,K2,1000,Men,359.87,final,3rd,NA,Bellingham 2016,6,1,2016,no,NA,NA,NA
+Hana Neutz,C1,200,Women,75.86,final,3rd,NA,Bellingham 2016,6,1,2016,no,NA,NA,NA
+Hana Neutz,C1,500,Women,181.88,final,3rd,NA,Bellingham 2016,6,1,2016,no,NA,NA,NA
+Liam Jennings,K1,200,Men,53.58,final,4th,NA,Bellingham 2016,6,1,2016,no,NA,NA,NA
+Liam Jennings,K1,1000,Men,337.22,final,4th,NA,Bellingham 2016,6,1,2016,no,NA,NA,NA
+Liam Jennings; Other,K2,1000,Men,332.25,NA,NA,NA,Bellingham 2016,6,1,2016,no,NA,NA,NA
+Miles Cross-Whiter,K1,200,Men,39.99,final,1st,NA,Bellingham 2016,6,1,2016,no,NA,NA,NA
+Miles Cross-Whiter,K1,1000,Men,282.38,final,1st,NA,Bellingham 2016,6,1,2016,no,<-hmm outlier ,NA,NA
+Naomi Prahl,C1,200,Women,75.35,final,2nd,NA,Bellingham 2016,6,1,2016,no,NA,NA,NA
+Naomi Prahl,C1,500,Women,185.7,final,2nd,NA,Bellingham 2016,6,1,2016,no,NA,NA,NA

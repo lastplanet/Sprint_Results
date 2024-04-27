@@ -1,0 +1,501 @@
+name,boat,event,gender,time,type,finish,level,venue,month,day,year,certified,notes,venue.long,race.name
+Jake Zikan,K1,200,Men,51,time-trial,,,Time Trial 2015,7,1,2015,no,,NA,NA
+Jake Zikan,K1,200,Men,51.35,time-trial,,,Time Trial 2015,7,1,2015,no,,NA,NA
+Jake Zikan,K1,200,Men,53,time-trial,,,Time Trial 2015,7,1,2015,no,,NA,NA
+Jake Zikan,K1,1000,Men,282,time-trial,,,Time Trial 2015,7,1,2015,no,,NA,NA
+Jake Zikan,K1,1000,Men,285,time-trial,,,Time Trial 2015,7,1,2015,no,,NA,NA
+Jake Zikan,K1,200,Men,47,time-trial,,,Time Trial 2016,7,1,2016,no,,NA,NA
+Jake Zikan,K1,1000,Men,281,time-trial,,,Time Trial 2016,7,1,2016,no,,NA,NA
+Liam Jennings,K1,2000,Men,674,time-trial,,,Time Trial 2017,3,4,2017,no,with turn,NA,NA
+Liam Jennings,K1,2000,Men,685,time-trial,,,Time Trial 2017,3,4,2017,no,with turn,NA,NA
+Liam Jennings,K1,2000,Men,695,time-trial,,,Time Trial 2017,3,4,2017,no,with turn,NA,NA
+Einar Ogle,K1,200,Men,74,time-trial,,,Time Trial 2017,4,29,2017,no,,NA,NA
+Einar Ogle,K1,500,Men,199,time-trial,,,Time Trial 2017,4,29,2017,no,,NA,NA
+Einar Ogle,K1,1000,Men,409,time-trial,,,Time Trial 2017,4,29,2017,no,,NA,NA
+Einar Ogle,K1,2000,Men,622,time-trial,,,Time Trial 2017,4,22,2017,no,with turn,NA,NA
+Einar Ogle,K1,2000,Men,658,time-trial,,,Time Trial 2017,4,22,2017,no,with turn,NA,NA
+Einar Ogle,K1,2000,Men,677,time-trial,,,Time Trial 2017,4,22,2017,no,with turn,NA,NA
+Jake Zikan,K1,200,Men,51,time-trial,,,Time Trial 2017,4,29,2017,no,,NA,NA
+Jake Zikan,K1,500,Men,135,time-trial,,,Time Trial 2017,4,29,2017,no,,NA,NA
+Jake Zikan,K1,1000,Men,283,time-trial,,,Time Trial 2017,4,29,2017,no,,NA,NA
+Liam Jennings,K1,2000,Men,622,time-trial,,,Time Trial 2017,4,22,2017,no,with turn,NA,NA
+Liam Jennings,K1,2000,Men,652,time-trial,,,Time Trial 2017,4,22,2017,no,with turn,NA,NA
+Liam Jennings,K1,2000,Men,657,time-trial,,,Time Trial 2017,4,22,2017,no,with turn,NA,NA
+Einar Ogle,K1,200,Men,69,time-trial,,,Time Trial 2017,5,20,2017,no,,NA,NA
+Einar Ogle,K1,500,Men,187,time-trial,,,Time Trial 2017,5,20,2017,no,,NA,NA
+Einar Ogle,K1,1000,Men,392,time-trial,,,Time Trial 2017,5,20,2017,no,,NA,NA
+Liam Jennings,K1,200,Men,54,time-trial,,,Time Trial 2017,5,13,2017,no,headwind,NA,NA
+Liam Jennings,K1,500,Men,142,time-trial,,,Time Trial 2017,5,13,2017,no,headwind,NA,NA
+Liam Jennings,K1,1000,Men,312,time-trial,,,Time Trial 2017,5,13,2017,no,headwind,NA,NA
+Aaron Small,K1,200,Men,43,time-trial,,,Time Trial 2017,7,8,2017,no,Zvikov,NA,NA
+Aaron Small,K1,200,Men,43.47,time-trial,,,Time Trial 2017,7,18,2017,no,,NA,NA
+Aaron Small,K1,500,Men,122,time-trial,,,Time Trial 2017,7,8,2017,no,Zvikov,NA,NA
+Aaron Small,K1,500,Men,119.04,time-trial,,,Time Trial 2017,7,18,2017,no,,NA,NA
+Aaron Small,K1,1000,Men,258.34,time-trial,,,Time Trial 2017,7,18,2017,no,,NA,NA
+Camille Neutz,K1,200,Women,58,time-trial,,,Time Trial 2017,7,18,2017,no,,NA,NA
+Camille Neutz,K1,200,Women,59.07,time-trial,,,Time Trial 2017,7,18,2017,no,,NA,NA
+Camille Neutz,K1,500,Women,159.76,time-trial,,,Time Trial 2017,7,18,2017,no,,NA,NA
+Einar Ogle,K1,200,Men,63,time-trial,,,Time Trial 2018,7,7,2017,no,,NA,NA
+Einar Ogle,K1,200,Men,63.41,time-trial,,,Time Trial 2017,7,18,2017,no,,NA,NA
+Einar Ogle,K1,500,Men,172,time-trial,,,Time Trial 2018,7,7,2017,no,,NA,NA
+Einar Ogle,K1,500,Men,174,time-trial,,,Time Trial 2018,7,7,2017,no,,NA,NA
+Einar Ogle,K1,500,Men,183,time-trial,,,Time Trial 2018,7,7,2017,no,,NA,NA
+Ella Bloomquist,K1,200,Women,69,time-trial,,,Time Trial 2017,7,14,2017,no,,NA,NA
+Ella Bloomquist,K1,200,Women,71,time-trial,,,Time Trial 2017,7,14,2017,no,,NA,NA
+Ella Bloomquist,K1,200,Women,63,time-trial,,,Time Trial 2017,7,28,2017,no,,NA,NA
+Ella Bloomquist,K1,500,Women,186,time-trial,,,Time Trial 2017,7,14,2017,no,,NA,NA
+Ella Bloomquist,K1,500,Women,181,time-trial,,,Time Trial 2017,7,28,2017,no,,NA,NA
+Hana Neutz,C1,200,Women,74,time-trial,,,Time Trial 2018,7,7,2017,no,,NA,NA
+Hana Neutz,C1,200,Women,61.08,time-trial,,,Time Trial 2017,7,18,2017,no,,NA,NA
+Hana Neutz,C1,200,Women,61.12,time-trial,,,Time Trial 2017,7,18,2017,no,,NA,NA
+Hana Neutz,C1,500,Women,193,time-trial,,,Time Trial 2018,7,7,2017,no,,NA,NA
+Hana Neutz,C1,500,Women,196,time-trial,,,Time Trial 2018,7,7,2017,no,,NA,NA
+Hana Neutz,C1,500,Women,212,time-trial,,,Time Trial 2018,7,7,2017,no,,NA,NA
+Hana Neutz,C1,500,Women,179.66,time-trial,,,Time Trial 2017,7,18,2017,no,,NA,NA
+Hayden Gosch,K1,200,Men,74,time-trial,,,Time Trial 2018,7,7,2017,no,,NA,NA
+Hayden Gosch,K1,500,Men,182,time-trial,,,Time Trial 2018,7,7,2017,no,,NA,NA
+Hayden Gosch,K1,500,Men,183,time-trial,,,Time Trial 2018,7,7,2017,no,,NA,NA
+Hayden Gosch,K1,500,Men,194,time-trial,,,Time Trial 2018,7,7,2017,no,,NA,NA
+Jake Zikan,K1,200,Men,46,time-trial,,,Time Trial 2017,7,8,2017,no,Zvikov,NA,NA
+Jake Zikan,K1,200,Men,45.15,time-trial,,,Time Trial 2017,7,18,2017,no,,NA,NA
+Jake Zikan,K1,500,Men,121,time-trial,,,Time Trial 2017,7,8,2017,no,Zvikov,NA,NA
+Jake Zikan,K1,500,Men,123,time-trial,,,Time Trial 2017,7,8,2017,no,Zvikov,NA,NA
+Jake Zikan,K1,500,Men,119.04,time-trial,,,Time Trial 2017,7,18,2017,no,,NA,NA
+Jake Zikan,K1,1000,Men,257,time-trial,,,Time Trial 2017,7,8,2017,no,Zvikov,NA,NA
+Jake Zikan,K1,1000,Men,255.38,time-trial,,,Time Trial 2017,7,18,2017,no,,NA,NA
+Jerry Chen,K1,200,Men,45.2,time-trial,,,Time Trial 2017,7,18,2017,no,,NA,NA
+Jerry Chen,K1,200,Men,48.22,time-trial,,,Time Trial 2017,7,18,2017,no,,NA,NA
+Leana Girton,K1,200,Women,60,time-trial,,,Time Trial 2018,7,7,2017,no,,NA,NA
+Leana Girton,K1,200,Women,60,time-trial,,,Time Trial 2017,7,14,2017,no,,NA,NA
+Leana Girton,K1,200,Women,64,time-trial,,,Time Trial 2017,7,14,2017,no,,NA,NA
+Leana Girton,K1,200,Women,56,time-trial,,,Time Trial 2017,7,28,2017,no,,NA,NA
+Leana Girton,K1,500,Women,150,time-trial,,,Time Trial 2018,7,7,2017,no,,NA,NA
+Leana Girton,K1,500,Women,156,time-trial,,,Time Trial 2018,7,7,2017,no,,NA,NA
+Leana Girton,K1,500,Women,162,time-trial,,,Time Trial 2018,7,7,2017,no,,NA,NA
+Leana Girton,K1,500,Women,164,time-trial,,,Time Trial 2017,7,14,2017,no,,NA,NA
+Leana Girton,K1,500,Women,165,time-trial,,,Time Trial 2017,7,14,2017,no,,NA,NA
+Leana Girton,K1,1000,Women,352,time-trial,,,Time Trial 2017,7,14,2017,no,,NA,NA
+Liam Jennings,K1,200,Men,49.38,time-trial,,,Time Trial 2017,7,18,2017,no,,NA,NA
+Liam Jennings,K1,500,Men,136.42,time-trial,,,Time Trial 2017,7,18,2017,no,,NA,NA
+Liam Jennings,K1,1000,Men,280.64,time-trial,,,Time Trial 2017,7,18,2017,no,,NA,NA
+Naomi Prahl,C1,200,Women,62.12,time-trial,,,Time Trial 2017,7,18,2017,no,,NA,NA
+Naomi Prahl,C1,200,Women,68.22,time-trial,,,Time Trial 2017,7,18,2017,no,,NA,NA
+Naomi Prahl,C1,500,Women,177.9,time-trial,,,Time Trial 2017,7,18,2017,no,,NA,NA
+Nevin Harrison,C1,200,Women,54.06,time-trial,,,Time Trial 2017,7,18,2017,no,,NA,NA
+Ronan Nopp,K1,200,Men,62,time-trial,,,Time Trial 2018,7,7,2017,no,,NA,NA
+Ronan Nopp,K1,500,Men,162,time-trial,,,Time Trial 2018,7,7,2017,no,,NA,NA
+Ronan Nopp,K1,500,Men,165,time-trial,,,Time Trial 2018,7,7,2017,no,,NA,NA
+Ronan Nopp,K1,500,Men,164,time-trial,,,Time Trial 2018,7,7,2017,no,,NA,NA
+Soren Ogle,K1,200,Men,72,time-trial,,,Time Trial 2018,7,7,2017,no,,NA,NA
+Soren Ogle,K1,500,Men,198,time-trial,,,Time Trial 2018,7,7,2017,no,,NA,NA
+Soren Ogle,K1,500,Men,205,time-trial,,,Time Trial 2018,7,7,2017,no,,NA,NA
+Soren Ogle,K1,500,Men,194,time-trial,,,Time Trial 2018,7,7,2017,no,,NA,NA
+Stephen Harris,K1,200,Men,84,time-trial,,,Time Trial 2018,7,7,2017,no,,NA,NA
+Stephen Harris,K1,500,Men,245,time-trial,,,Time Trial 2018,7,7,2017,no,,NA,NA
+Stephen Harris,K1,500,Men,244,time-trial,,,Time Trial 2018,7,7,2017,no,,NA,NA
+Stephen Harris,K1,500,Men,240,time-trial,,,Time Trial 2018,7,7,2017,no,,NA,NA
+Aaron Small; Jake Zikan,K2,200,Men,39,time-trial,,,Time Trial 2017,8,25,2017,no,,NA,NA
+Aaron Small; Jake Zikan,K2,200,Men,39,time-trial,,,Time Trial 2017,8,25,2017,no,,NA,NA
+Aaron Small; Jake Zikan,K2,500,Men,109,time-trial,,,Time Trial 2017,8,25,2017,no,,NA,NA
+Aaron Small; Jake Zikan,K2,1000,Men,232,time-trial,,,Time Trial 2017,8,25,2017,no,,NA,NA
+Camille Neutz,K1,200,Women,59.38,time-trial,,,Time Trial 2017,8,26,2017,no,flat conditions,NA,NA
+Camille Neutz,K1,500,Women,176,time-trial,,,Time Trial 2017,8,26,2017,no,flat conditions; coming back from 2 wk break,NA,NA
+Camille Neutz,K1,1000,Women,350,time-trial,,,Time Trial 2017,8,26,2017,no,flat conditions; coming back from 2 wk break,NA,NA
+Einar Ogle,K1,200,Men,61,time-trial,,,Time Trial 2017,8,26,2017,no,flat conditions,NA,NA
+Einar Ogle,K1,500,Men,166,time-trial,,,Time Trial 2017,8,26,2017,no,,NA,NA
+Liam Jennings,K1,200,Men,44.39,time-trial,,,Time Trial 2017,8,26,2017,no,flat conditions,NA,NA
+Liam Jennings,K1,500,Men,130,time-trial,,,Time Trial 2017,8,26,2017,no,,NA,NA
+Liam Jennings,K1,1000,Men,278,time-trial,,,Time Trial 2017,8,26,2017,no,,NA,NA
+Nevin Harrison,C1,200,Women,51.93,time-trial,,,Time Trial 2017,8,26,2017,no,flat conditions,NA,NA
+Nevin Harrison,C1,200,Women,51.346,time-trial,,,Time Trial 2017,8,26,2017,no,,NA,NA
+Nevin Harrison,C1,500,Women,156,time-trial,,,Time Trial 2017,8,26,2017,no,flat conditions,NA,NA
+Nevin Harrison,C1,1000,Women,320,time-trial,,,Time Trial 2017,8,26,2017,no,flat conditions,NA,NA
+Aaron Small; Jake Zikan,K2,200,Men,38.4,time-trial,,,Time Trial 2017,9,4,2017,no,wind aided,NA,NA
+Aaron Small; Jake Zikan,K2,500,Men,107.83,time-trial,,,Time Trial 2017,9,4,2017,no,cross-winds,NA,NA
+Aaron Small; Jake Zikan,K2,1000,Men,229,time-trial,,,Time Trial 2017,9,4,2017,no,cross-winds,NA,NA
+Nevin Harrison,C1,200,Women,50.22,time-trial,,,Time Trial 2017,9,4,2017,no,wind aided,NA,NA
+Nevin Harrison,C1,200,Women,50.98,time-trial,,,Time Trial 2017,9,4,2017,no,wind aided,NA,NA
+Aaron Small,K1,2000,Men,563,time-trial,,,Time Trial 2017,10,14,2017,no,with turn,NA,NA
+Einar Ogle,K1,2000,Men,763,time-trial,,,Time Trial 2017,10,14,2017,no,with turn,NA,NA
+Eric McCluskey,K1,2000,Men,610,time-trial,,,Time Trial 2017,10,15,2017,no,,NA,NA
+Jake Zikan,K1,2000,Men,549,time-trial,,,Time Trial 2017,10,14,2017,no,with turn,NA,NA
+Liam Jennings,K1,2000,Men,592,time-trial,,,Time Trial 2017,10,14,2017,no,with turn,NA,NA
+Owen Jennings,K1,2000,Men,819,time-trial,,,Time Trial 2017,10,14,2017,no,with turn,NA,NA
+Aaron Dickson,C1,2000,Men,624,time-trial,,,Time Trial 2018,3,1,2018,no,with turn; ODP,NA,NA
+Aaron Mullican,K1,2000,Men,503,time-trial,,,Time Trial 2018,3,1,2018,no,with turn; ODP,NA,NA
+Aaron Mullican,K1,2000,Men,503,time-trial,,,Time Trial 2018,3,1,2018,no,,NA,NA
+Aaron Small,K1,2000,Men,589,time-trial,,,Time Trial 2018,3,1,2018,no,with turn; ODP,NA,NA
+Allen Marsh,K1,2000,Men,567,time-trial,,,Time Trial 2018,3,1,2018,no,with turn; ODP,NA,NA
+Amanda Creek,K1,2000,Women,727,time-trial,,,Time Trial 2018,3,1,2018,no,with turn; ODP,NA,NA
+Andrew Surles,K1,2000,Men,515,time-trial,,,Time Trial 2018,3,1,2018,no,with turn; ODP,NA,NA
+Ann Armstrong,C1,2000,Women,724,time-trial,,,Time Trial 2018,3,1,2018,no,with turn; ODP,NA,NA
+Audrey Thiessen,K1,2000,Women,663,time-trial,,,Time Trial 2018,3,1,2018,no,with turn; ODP,NA,NA
+Ben Gregory,C1,2000,Men,674,time-trial,,,Time Trial 2018,3,1,2018,no,with turn; ODP,NA,NA
+Bria Cornforth,K1,2000,Women,606,time-trial,,,Time Trial 2018,3,1,2018,no,with turn; ODP,NA,NA
+Brice Anderson,C1,2000,Men,664,time-trial,,,Time Trial 2018,3,1,2018,no,with turn; ODP,NA,NA
+Caitlin Marsh,K1,2000,Women,636,time-trial,,,Time Trial 2018,3,1,2018,no,with turn; ODP,NA,NA
+Caleb Cooper,C1,2000,Men,628,time-trial,,,Time Trial 2018,3,1,2018,no,with turn; ODP,NA,NA
+Colin McMullen,K1,2000,Men,553,time-trial,,,Time Trial 2018,3,1,2018,no,with turn; ODP,NA,NA
+Courtney Stow,K1,2000,Women,678,time-trial,,,Time Trial 2018,3,1,2018,no,with turn; ODP,NA,NA
+Delaney Valentine,C1,2000,Women,1080,time-trial,,,Time Trial 2018,3,1,2018,no,with turn; ODP,NA,NA
+Edward Surles,C1,2000,Men,576,time-trial,,,Time Trial 2018,3,1,2018,no,with turn; ODP,NA,NA
+Eric McCluskey,K1,2000,Men,646,time-trial,,,Time Trial 2018,3,1,2018,no,with turn; ODP,NA,NA
+Ethan Deppe,K1,2000,Men,565,time-trial,,,Time Trial 2018,3,1,2018,no,with turn; ODP,NA,NA
+Evan Truesdale,K1,2000,Men,521,time-trial,,,Time Trial 2018,3,2,2018,no,with turn; ODP,NA,NA
+Garrett Wampler,K1,2000,Men,540,time-trial,,,Time Trial 2018,3,1,2018,no,with turn; ODP,NA,NA
+Gavin Ross,C1,2000,Men,688,time-trial,,,Time Trial 2018,3,1,2018,no,with turn; ODP,NA,NA
+Geome Ramirez,K1,2000,Women,701,time-trial,,,Time Trial 2018,3,1,2018,no,with turn; ODP,NA,NA
+Grace Valentine,K1,2000,Women,673,time-trial,,,Time Trial 2018,3,1,2018,no,with turn; ODP,NA,NA
+Gus Cook,K1,2000,Men,543,time-trial,,,Time Trial 2018,3,1,2018,no,with turn; ODP,NA,NA
+Ian Ross,C1,2000,Men,582,time-trial,,,Time Trial 2018,3,1,2018,no,with turn; ODP,NA,NA
+Irissa Danke,K1,2000,Women,618,time-trial,,,Time Trial 2018,3,1,2018,no,with turn; ODP,NA,NA
+Jack Capper,K1,2000,Men,541,time-trial,,,Time Trial 2018,3,1,2018,no,with turn; ODP,NA,NA
+Jackson Hickerson,K1,2000,Men,560,time-trial,,,Time Trial 2018,3,1,2018,no,with turn; ODP,NA,NA
+Jake Zikan,K1,2000,Men,584,time-trial,,,Time Trial 2018,3,1,2018,no,with turn; ODP,NA,NA
+Jesse Lishchuk,K1,2000,Men,578,time-trial,,,Time Trial 2018,3,1,2018,no,with turn; ODP,NA,NA
+Jonathan Espinosa,K1,2000,Men,597,time-trial,,,Time Trial 2018,3,1,2018,no,with turn; ODP,NA,NA
+Jonathan Grady,C1,2000,Men,612,time-trial,,,Time Trial 2018,3,1,2018,no,with turn; ODP,NA,NA
+Joshua Adelberg,K1,2000,Men,617,time-trial,,,Time Trial 2018,3,1,2018,no,with turn; ODP,NA,NA
+Joshua Burchardt,K1,2000,Men,561,time-trial,,,Time Trial 2018,3,1,2018,no,with turn; ODP,NA,NA
+Kaley Martin,C1,2000,Women,714,time-trial,,,Time Trial 2018,3,1,2018,no,with turn; ODP,NA,NA
+Kelley Allen,K1,2000,Women,673,time-trial,,,Time Trial 2018,3,1,2018,no,with turn; ODP,NA,NA
+Kitsy Nipper,K1,2000,Women,677,time-trial,,,Time Trial 2018,3,1,2018,no,with turn; ODP,NA,NA
+Kyle Field,K1,2000,Men,574,time-trial,,,Time Trial 2018,3,1,2018,no,with turn; ODP,NA,NA
+Leana Girton,K1,2000,Women,678,time-trial,,,Time Trial 2018,3,1,2018,no,with turn; ODP,NA,NA
+Leilani Borm,K1,2000,Women,619,time-trial,,,Time Trial 2018,3,1,2018,no,with turn; ODP,NA,NA
+Liam Jennings,K1,2000,Men,606,time-trial,,,Time Trial 2018,3,1,2018,no,with turn; ODP,NA,NA
+Lucas Pitts,K1,2000,Men,568,time-trial,,,Time Trial 2018,3,1,2018,no,with turn; ODP,NA,NA
+Maddie Cole,C1,2000,Women,676,time-trial,,,Time Trial 2018,3,1,2018,no,with turn; ODP,NA,NA
+Madison Long,K1,2000,Women,691,time-trial,,,Time Trial 2018,3,1,2018,no,with turn; ODP,NA,NA
+Maggie Bowmar,K1,2000,Women,630,time-trial,,,Time Trial 2018,3,1,2018,no,with turn; ODP,NA,NA
+Megan Hayes,K1,2000,Women,639,time-trial,,,Time Trial 2018,3,1,2018,no,with turn; ODP,NA,NA
+Michael Miller,K1,2000,Men,612,time-trial,,,Time Trial 2018,3,1,2018,no,with turn; ODP,NA,NA
+Milan Gauthier,K1,2000,Women,587,time-trial,,,Time Trial 2018,3,1,2018,no,with turn; ODP,NA,NA
+Miles Cross-Whiter,K1,2000,Men,536,time-trial,,,Time Trial 2018,3,6,2018,no,with turn; ODP,NA,NA
+Mira Corrao,K1,2000,Women,638,time-trial,,,Time Trial 2018,3,1,2018,no,with turn; ODP,NA,NA
+Morgan Jacobsen,C1,2000,Women,725,time-trial,,,Time Trial 2018,3,1,2018,no,with turn; ODP,NA,NA
+Nainoa Orr,K1,2000,Men,530,time-trial,,,Time Trial 2018,3,1,2018,no,with turn; ODP,NA,NA
+Nate Boyd,K1,2000,Men,555,time-trial,,,Time Trial 2018,3,1,2018,no,with turn; ODP,NA,NA
+Nate Errez,K1,2000,Men,517,time-trial,,,Time Trial 2018,3,2,2018,no,with turn; ODP,NA,NA
+Neha Harle,K1,2000,Women,647,time-trial,,,Time Trial 2018,3,1,2018,no,with turn; ODP,NA,NA
+Nick Whitcomb,K1,2000,Men,538,time-trial,,,Time Trial 2018,3,1,2018,no,with turn; ODP,NA,NA
+Owen Farley-Klacik,K1,2000,Men,507,time-trial,,,Time Trial 2018,3,1,2018,no,with turn; ODP,NA,NA
+Paige Farley-Klacik,C1,2000,Women,694,time-trial,,,Time Trial 2018,3,1,2018,no,with turn; ODP,NA,NA
+Patrick Jenkins,K1,2000,Men,557,time-trial,,,Time Trial 2018,3,1,2018,no,with turn; ODP,NA,NA
+Renae Jackson,K1,2000,Women,573,time-trial,,,Time Trial 2018,3,1,2018,no,with turn; ODP,NA,NA
+Samantha Barlow,K1,2000,Women,565,time-trial,,,Time Trial 2018,3,1,2018,no,with turn; ODP,NA,NA
+Sierra Noskoff,K1,2000,Women,576,time-trial,,,Time Trial 2018,3,1,2018,no,with turn; ODP,NA,NA
+Stanton Collins,K1,2000,Men,511,time-trial,,,Time Trial 2018,3,1,2018,no,with turn; ODP,NA,NA
+Thom Crockett,K1,2000,Men,523,time-trial,,,Time Trial 2018,3,1,2018,no,with turn; ODP,NA,NA
+Tim Burdiak,K1,2000,Men,537,time-trial,,,Time Trial 2018,3,1,2018,no,with turn; ODP,NA,NA
+Trisha Martinson,K1,2000,Women,652,time-trial,,,Time Trial 2018,3,1,2018,no,with turn; ODP,NA,NA
+Tucker Goetz,K1,2000,Men,588,time-trial,,,Time Trial 2018,3,1,2018,no,with turn; ODP,NA,NA
+Walker Peck,K1,2000,Men,511,time-trial,,,Time Trial 2018,3,1,2018,no,with turn; ODP,NA,NA
+Wilson Reavley,K1,2000,Men,648,time-trial,,,Time Trial 2018,3,19,2018,no,with turn; windy,NA,NA
+Zoe Hein,C1,2000,Women,755,time-trial,,,Time Trial 2018,3,1,2018,no,with turn; ODP,NA,NA
+Zoe Hunt,K1,2000,Women,682,time-trial,,,Time Trial 2018,3,1,2018,no,with turn; ODP,NA,NA
+Aaron Mullican,K1,2000,Men,507,time-trial,,,Time Trial 2018,4,1,2018,no,with turn; ODP,NA,NA
+Aaron Small,K1,2000,Men,576,time-trial,,,Time Trial 2018,4,14,2018,no,with turn; ODP,NA,NA
+Abbie Scoggins,K1,2000,Women,623,time-trial,,,Time Trial 2018,4,1,2018,no,with turn; ODP,NA,NA
+Allen Marsh,K1,2000,Men,590,time-trial,,,Time Trial 2018,4,1,2018,no,with turn; ODP,NA,NA
+Andreea Ghizila,C1,2000,Women,681,time-trial,,,Time Trial 2018,4,1,2018,no,with turn; ODP,NA,NA
+Andrew Surles,K1,2000,Men,534,time-trial,,,Time Trial 2018,4,1,2018,no,with turn; ODP,NA,NA
+Ann Armstrong,C1,2000,Women,690,time-trial,,,Time Trial 2018,4,1,2018,no,with turn; ODP,NA,NA
+Anna Swetish,K1,2000,Women,593,time-trial,,,Time Trial 2018,4,6,2018,no,with turn; ODP,NA,NA
+Audrey Thiessen,K1,2000,Women,619,time-trial,,,Time Trial 2018,4,1,2018,no,with turn; ODP,NA,NA
+Austin Cooper,K1,2000,Men,614,time-trial,,,Time Trial 2018,4,1,2018,no,with turn; ODP,NA,NA
+Ben Gregory,C1,2000,Men,676,time-trial,,,Time Trial 2018,4,1,2018,no,with turn; ODP,NA,NA
+Bria Cornforth,K1,2000,Women,606,time-trial,,,Time Trial 2018,4,6,2018,no,with turn; ODP,NA,NA
+Caitlin Marsh,K1,2000,Women,650,time-trial,,,Time Trial 2018,4,1,2018,no,with turn; ODP,NA,NA
+Camden Sexton,C1,2000,Men,607,time-trial,,,Time Trial 2018,4,1,2018,no,with turn; ODP,NA,NA
+Cian Donovan,K1,2000,Men,913,time-trial,,,Time Trial 2018,4,6,2018,no,with turn,NA,NA
+Colin McMullen,K1,2000,Men,541,time-trial,,,Time Trial 2018,4,1,2018,no,with turn; ODP,NA,NA
+Courtney Stow,K1,2000,Women,709,time-trial,,,Time Trial 2018,4,1,2018,no,with turn; ODP,NA,NA
+Delaney Valentine,C1,2000,Women,1023,time-trial,,,Time Trial 2018,4,1,2018,no,with turn; ODP,NA,NA
+Dylan Anacleto-Black,K1,2000,Men,611,time-trial,,,Time Trial 2018,4,1,2018,no,with turn; ODP,NA,NA
+Dylan Boeholt,K1,2000,Men,591,time-trial,,,Time Trial 2018,4,1,2018,no,with turn; ODP,NA,NA
+Edward Surles,C1,2000,Men,590,time-trial,,,Time Trial 2018,4,1,2018,no,with turn; ODP,NA,NA
+Elena Wolgamot,K1,2000,Women,585,time-trial,,,Time Trial 2018,4,1,2018,no,with turn; ODP,NA,NA
+Emma McCoy,K1,2000,Women,648,time-trial,,,Time Trial 2018,4,1,2018,no,with turn; ODP,NA,NA
+Eric McCluskey,K1,2000,Men,630,time-trial,,,Time Trial 2018,4,6,2018,no,with turn; ODP,NA,NA
+Ethan Vasquez,K1,2000,Men,621,time-trial,,,Time Trial 2018,4,1,2018,no,with turn; ODP,NA,NA
+Evan Truesdale,K1,2000,Men,495,time-trial,,,Time Trial 2018,4,1,2018,no,with turn; ODP,NA,NA
+Frankie Kelly,K1,2000,Women,663,time-trial,,,Time Trial 2018,4,6,2018,no,with turn; ODP,NA,NA
+Gavin Ross,C1,2000,Men,638,time-trial,,,Time Trial 2018,4,1,2018,no,with turn; ODP,NA,NA
+Geome Ramirez,K1,2000,Women,721,time-trial,,,Time Trial 2018,4,1,2018,no,with turn; ODP,NA,NA
+Grace Valentine,K1,2000,Women,670,time-trial,,,Time Trial 2018,4,6,2018,no,with turn; ODP,NA,NA
+Gus Cook,K1,2000,Men,522,time-trial,,,Time Trial 2018,4,1,2018,no,with turn; ODP,NA,NA
+Ian Ross,C1,2000,Men,569,time-trial,,,Time Trial 2018,4,1,2018,no,with turn; ODP,NA,NA
+Jackson Plymale,K1,2000,Men,586,time-trial,,,Time Trial 2018,4,1,2018,no,with turn; ODP,NA,NA
+Jacob Eash,K1,2000,Men,594,time-trial,,,Time Trial 2018,4,1,2018,no,with turn; ODP,NA,NA
+Jake Zikan,K1,2000,Men,574,time-trial,,,Time Trial 2018,4,1,2018,no,with turn; ODP,NA,NA
+Jasper Caddell,K1,2000,Men,567,time-trial,,,Time Trial 2018,4,1,2018,no,with turn; ODP,NA,NA
+Jesse Lishchuk,K1,2000,Men,514,time-trial,,,Time Trial 2018,4,1,2018,no,with turn; ODP,NA,NA
+Jonathan Grady,C1,2000,Men,591,time-trial,,,Time Trial 2018,4,1,2018,no,with turn; ODP,NA,NA
+Joshua Adelberg,K1,2000,Men,621,time-trial,,,Time Trial 2018,4,1,2018,no,with turn; ODP,NA,NA
+Joshua Burchardt,K1,2000,Men,580,time-trial,,,Time Trial 2018,4,1,2018,no,with turn; ODP,NA,NA
+Kaitlyn McElroy,K1,2000,Women,547,time-trial,,,Time Trial 2018,4,1,2018,no,with turn; ODP,NA,NA
+Kaley Martin,C1,2000,Women,762,time-trial,,,Time Trial 2018,4,1,2018,no,with turn; ODP,NA,NA
+Kasen Taylor,K1,2000,Men,697,time-trial,,,Time Trial 2018,4,1,2018,no,with turn; ODP,NA,NA
+Kelley Allen,K1,2000,Women,667,time-trial,,,Time Trial 2018,4,6,2018,no,with turn; ODP,NA,NA
+Kelly North,C1,2000,Women,779,time-trial,,,Time Trial 2018,4,1,2018,no,with turn; ODP,NA,NA
+Kitsy Nipper,K1,2000,Women,673,time-trial,,,Time Trial 2018,4,6,2018,no,with turn; ODP,NA,NA
+Kyle Field,K1,2000,Men,540,time-trial,,,Time Trial 2018,4,1,2018,no,with turn; ODP,NA,NA
+Leana Girton,K1,2000,Women,660,time-trial,,,Time Trial 2018,4,6,2018,no,with turn; ODP,NA,NA
+Leilani Borm,K1,2000,Women,621,time-trial,,,Time Trial 2018,4,1,2018,no,with turn; ODP,NA,NA
+Lia Giatano,C1,2000,Women,744,time-trial,,,Time Trial 2018,4,1,2018,no,with turn; ODP,NA,NA
+Liam Jennings,K1,2000,Men,591,time-trial,,,Time Trial 2018,4,6,2018,no,with turn; ODP,NA,NA
+Lucas Pitts,K1,2000,Men,619,time-trial,,,Time Trial 2018,4,1,2018,no,with turn; ODP,NA,NA
+Maddie Cole,C1,2000,Women,706,time-trial,,,Time Trial 2018,4,1,2018,no,with turn; ODP,NA,NA
+Madison Long,K1,2000,Women,717,time-trial,,,Time Trial 2018,4,1,2018,no,with turn; ODP,NA,NA
+Maggie Bowmar,K1,2000,Women,638,time-trial,,,Time Trial 2018,4,1,2018,no,with turn; ODP,NA,NA
+Megan Hayes,K1,2000,Women,652,time-trial,,,Time Trial 2018,4,1,2018,no,with turn; ODP,NA,NA
+Meisi Settle,C1,2000,Women,784,time-trial,,,Time Trial 2018,4,1,2018,no,with turn; ODP,NA,NA
+Milan Gauthier,K1,2000,Women,582,time-trial,,,Time Trial 2018,4,1,2018,no,with turn; ODP,NA,NA
+Miles Cross-Whiter,K1,2000,Men,535,time-trial,,,Time Trial 2018,4,1,2018,no,with turn; ODP,NA,NA
+Mira Corrao,K1,2000,Women,625,time-trial,,,Time Trial 2018,4,1,2018,no,with turn; ODP,NA,NA
+Morgan Jacobsen,C1,2000,Women,765,time-trial,,,Time Trial 2018,4,1,2018,no,with turn; ODP,NA,NA
+Nainoa Orr,K1,2000,Men,517,time-trial,,,Time Trial 2018,4,1,2018,no,with turn; ODP,NA,NA
+Natalie Brunson,C1,2000,Women,737,time-trial,,,Time Trial 2018,4,1,2018,no,with turn; ODP,NA,NA
+Nate Blasdel,K1,2000,Men,628,time-trial,,,Time Trial 2018,4,1,2018,no,with turn; ODP,NA,NA
+Nate Boyd,K1,2000,Men,582,time-trial,,,Time Trial 2018,4,1,2018,no,with turn; ODP,NA,NA
+Nate Errez,K1,2000,Men,517,time-trial,,,Time Trial 2018,4,1,2018,no,with turn; ODP,NA,NA
+Neha Harle,K1,2000,Women,595,time-trial,,,Time Trial 2018,4,6,2018,no,with turn; ODP,NA,NA
+Nick Whitcomb,K1,2000,Men,542,time-trial,,,Time Trial 2018,4,1,2018,no,with turn; ODP,NA,NA
+Oliver Farquar,C1,2000,Men,657,time-trial,,,Time Trial 2018,4,1,2018,no,with turn; ODP,NA,NA
+Owen Farley-Klacik,K1,2000,Men,536,time-trial,,,Time Trial 2018,4,1,2018,no,with turn; ODP,NA,NA
+Owen Jennings,K1,2000,Men,759,time-trial,,,Time Trial 2018,4,6,2018,no,with turn,NA,NA
+Pat Dolan,K1,2000,Men,502,time-trial,,,Time Trial 2018,4,1,2018,no,with turn; ODP,NA,NA
+Petri Alva,K1,2000,Men,643,time-trial,,,Time Trial 2018,4,1,2018,no,with turn; ODP,NA,NA
+Renae Jackson,K1,2000,Women,601,time-trial,,,Time Trial 2018,4,6,2018,no,with turn; ODP,NA,NA
+Sadie Hanks,C1,2000,Women,813,time-trial,,,Time Trial 2018,4,1,2018,no,with turn; ODP,NA,NA
+Samantha Barlow,K1,2000,Women,557,time-trial,,,Time Trial 2018,4,1,2018,no,with turn; ODP,NA,NA
+Sarah Grady,C1,2000,Women,753,time-trial,,,Time Trial 2018,4,1,2018,no,with turn; ODP,NA,NA
+Sierra Noskoff,K1,2000,Women,571,time-trial,,,Time Trial 2018,4,1,2018,no,with turn; ODP,NA,NA
+Stanton Collins,K1,2000,Men,515,time-trial,,,Time Trial 2018,4,1,2018,no,with turn; ODP,NA,NA
+Thom Crockett,K1,2000,Men,511,time-trial,,,Time Trial 2018,4,1,2018,no,with turn; ODP,NA,NA
+Tim Burdiak,K1,2000,Men,502,time-trial,,,Time Trial 2018,4,1,2018,no,with turn; ODP,NA,NA
+Trisha Martinson,K1,2000,Women,623,time-trial,,,Time Trial 2018,4,1,2018,no,with turn; ODP,NA,NA
+Tucker Goetz,K1,2000,Men,590,time-trial,,,Time Trial 2018,4,1,2018,no,with turn; ODP,NA,NA
+Walker Peck,K1,2000,Men,548,time-trial,,,Time Trial 2018,4,1,2018,no,with turn; ODP,NA,NA
+Wilson Reavley,K1,2000,Men,611,time-trial,,,Time Trial 2018,4,6,2018,no,with turn,NA,NA
+Zachary Alva,K1,2000,Men,570,time-trial,,,Time Trial 2018,4,1,2018,no,with turn; ODP,NA,NA
+Zoe Hunt,K1,2000,Women,673,time-trial,,,Time Trial 2018,4,6,2018,no,with turn; ODP,NA,NA
+Aaron Mullican,K1,2000,Men,507,time-trial,,,Time Trial 2018,5,6,2018,no,with turn; ODP,NA,NA
+Aaron Small,K1,2000,Men,567,time-trial,,,Time Trial 2018,5,6,2018,no,with turn; ODP,NA,NA
+Alex Lee,K1,2000,Men,562,time-trial,,,Time Trial 2018,5,6,2018,no,with turn; ODP,NA,NA
+Allen Marsh,K1,2000,Men,584,time-trial,,,Time Trial 2018,5,6,2018,no,with turn; ODP,NA,NA
+Amanda Creek,K1,2000,Women,764,time-trial,,,Time Trial 2018,5,6,2018,no,with turn; ODP; wind,NA,NA
+Andreea Ghizila,C1,2000,Women,674,time-trial,,,Time Trial 2018,5,6,2018,no,with turn; ODP; wind,NA,NA
+Andrew Surles,K1,2000,Men,511,time-trial,,,Time Trial 2018,5,6,2018,no,with turn; ODP,NA,NA
+Austen Czuegler,K1,2000,Men,550,time-trial,,,Time Trial 2018,5,6,2018,no,with turn; ODP,NA,NA
+Brice Anderson,C1,2000,Men,642,time-trial,,,Time Trial 2018,5,6,2018,no,with turn; ODP,NA,NA
+Caitlin Marsh,K1,2000,Women,640,time-trial,,,Time Trial 2018,5,6,2018,no,with turn; ODP,NA,NA
+Caleb Cooper,C1,2000,Men,642,time-trial,,,Time Trial 2018,5,6,2018,no,with turn; ODP,NA,NA
+Camden Sexton,C1,2000,Men,621,time-trial,,,Time Trial 2018,5,6,2018,no,with turn; ODP,NA,NA
+Chauncey Bevin,K1,2000,Men,591,time-trial,,,Time Trial 2018,5,6,2018,no,with turn; ODP,NA,NA
+Colin McMullen,K1,2000,Men,541,time-trial,,,Time Trial 2018,5,6,2018,no,with turn; ODP,NA,NA
+Courtney Stow,K1,2000,Women,643,time-trial,,,Time Trial 2018,5,6,2018,no,with turn; ODP,NA,NA
+Dylan Anacleto-Black,K1,2000,Men,617,time-trial,,,Time Trial 2018,5,6,2018,no,with turn; ODP,NA,NA
+Dylan Boeholt,K1,2000,Men,611,time-trial,,,Time Trial 2018,5,6,2018,no,with turn; ODP,NA,NA
+Edward Surles,C1,2000,Men,573,time-trial,,,Time Trial 2018,5,6,2018,no,with turn; ODP,NA,NA
+Elena Wolgamot,K1,2000,Women,573,time-trial,,,Time Trial 2018,5,6,2018,no,with turn; ODP,NA,NA
+Eli Holmes,K1,1000,Women,313,time-trial,,,Time Trial 2018,5,12,2018,no,,NA,NA
+Emma McCoy,K1,2000,Women,637,time-trial,,,Time Trial 2018,5,6,2018,no,with turn; ODP,NA,NA
+Ethan Deppe,K1,2000,Men,574,time-trial,,,Time Trial 2018,5,6,2018,no,with turn; ODP,NA,NA
+Evan Truesdale,K1,2000,Men,519,time-trial,,,Time Trial 2018,5,6,2018,no,with turn; ODP,NA,NA
+Frankie Kelly,K1,2000,Women,665,time-trial,,,Time Trial 2018,5,6,2018,no,with turn; ODP,NA,NA
+Geome Ramirez,K1,2000,Women,718,time-trial,,,Time Trial 2018,5,6,2018,no,with turn; ODP,NA,NA
+Gus Cook,K1,2000,Men,517,time-trial,,,Time Trial 2018,5,6,2018,no,with turn; ODP,NA,NA
+Irissa Danke,K1,2000,Women,611,time-trial,,,Time Trial 2018,5,6,2018,no,with turn; ODP,NA,NA
+Isabel Alberola,K1,2000,Women,615,time-trial,,,Time Trial 2018,5,6,2018,no,with turn; ODP,NA,NA
+Jackson Hickerson,K1,2000,Men,549,time-trial,,,Time Trial 2018,5,6,2018,no,with turn; ODP,NA,NA
+Jackson Hutton,K1,2000,Men,651,time-trial,,,Time Trial 2018,5,6,2018,no,with turn; ODP,NA,NA
+Jackson Malone,K1,2000,Men,682,time-trial,,,Time Trial 2018,5,6,2018,no,with turn; ODP,NA,NA
+Jackson Plymale,K1,2000,Men,569,time-trial,,,Time Trial 2018,5,6,2018,no,with turn; ODP,NA,NA
+Jacob Eash,K1,2000,Men,643,time-trial,,,Time Trial 2018,5,6,2018,no,with turn; ODP,NA,NA
+Jake Zikan,K1,2000,Men,551,time-trial,,,Time Trial 2018,5,5,2018,no,with turn; ODP,NA,NA
+Jasper Caddell,K1,2000,Men,568,time-trial,,,Time Trial 2018,5,6,2018,no,with turn; ODP,NA,NA
+Jonathan Grady,C1,2001,Men,591,time-trial,,,Time Trial 2018,5,6,2018,no,with turn; ODP,NA,NA
+Joshua Adelberg,K1,2000,Men,604,time-trial,,,Time Trial 2018,5,6,2018,no,with turn; ODP,NA,NA
+Joshua Burchardt,K1,2000,Men,566,time-trial,,,Time Trial 2018,5,6,2018,no,with turn; ODP,NA,NA
+Kaley Martin,C1,2000,Women,697,time-trial,,,Time Trial 2018,5,6,2018,no,with turn; ODP,NA,NA
+Kasen Taylor,K1,2000,Men,635,time-trial,,,Time Trial 2018,5,6,2018,no,with turn; ODP,NA,NA
+Kitsy Nipper,K1,2000,Women,670,time-trial,,,Time Trial 2018,5,6,2018,no,with turn; ODP,NA,NA
+Kyle Field,K1,2000,Men,549,time-trial,,,Time Trial 2018,5,6,2018,no,with turn; ODP,NA,NA
+Lane Hopkins,K1,2000,Men,615,time-trial,,,Time Trial 2018,5,6,2018,no,with turn; ODP,NA,NA
+Leilani Borm,K1,2000,Women,621,time-trial,,,Time Trial 2018,5,6,2018,no,with turn; ODP,NA,NA
+Lia Giatano,C1,2000,Women,713,time-trial,,,Time Trial 2018,5,6,2018,no,with turn; ODP,NA,NA
+Liam Jennings,K1,2000,Men,575,time-trial,,,Time Trial 2018,5,6,2018,no,with turn; ODP,NA,NA
+Lucas Pitts,K1,2000,Men,584,time-trial,,,Time Trial 2018,5,6,2018,no,with turn; ODP,NA,NA
+Maggie Bowmar,K1,2000,Women,635,time-trial,,,Time Trial 2018,5,6,2018,no,with turn; ODP,NA,NA
+Megan Hayes,K1,2000,Women,653,time-trial,,,Time Trial 2018,5,6,2018,no,with turn; ODP,NA,NA
+Milan Gauthier,K1,2000,Women,594,time-trial,,,Time Trial 2018,5,6,2018,no,with turn; ODP,NA,NA
+Mira Corrao,K1,2000,Women,656,time-trial,,,Time Trial 2018,5,6,2018,no,with turn; ODP,NA,NA
+Morgan Jacobsen,C1,2000,Women,715,time-trial,,,Time Trial 2018,5,6,2018,no,with turn; ODP,NA,NA
+Nainoa Orr,K1,2000,Men,535,time-trial,,,Time Trial 2018,5,6,2018,no,with turn; ODP,NA,NA
+Natalie Brunson,C1,2000,Women,714,time-trial,,,Time Trial 2018,5,6,2018,no,with turn; ODP,NA,NA
+Nate Blasdel,K1,2000,Men,603,time-trial,,,Time Trial 2018,5,6,2018,no,with turn; ODP,NA,NA
+Nate Boyd,K1,2000,Men,557,time-trial,,,Time Trial 2018,5,6,2018,no,with turn; ODP,NA,NA
+Nate Errez,K1,2000,Men,526,time-trial,,,Time Trial 2018,5,6,2018,no,with turn; ODP,NA,NA
+Neha Harle,K1,2000,Women,624,time-trial,,,Time Trial 2018,5,6,2018,no,with turn; ODP,NA,NA
+Nevin Harrison,C1,2000,Women,726,time-trial,,,Time Trial 2018,5,6,2018,no,with turn; ODP; wind,NA,NA
+Oliver Farquar,C1,2000,Men,748,time-trial,,,Time Trial 2018,5,6,2018,no,with turn; ODP; wind,NA,NA
+Owen Chiou,K1,2000,Men,618,time-trial,,,Time Trial 2018,5,6,2018,no,with turn; ODP,NA,NA
+Owen Farley-Klacik,K1,2000,Men,506,time-trial,,,Time Trial 2018,5,6,2018,no,with turn; ODP,NA,NA
+Paige Farley-Klacik,C1,2000,Women,711,time-trial,,,Time Trial 2018,5,6,2018,no,with turn; ODP,NA,NA
+Pat Dolan,K1,2000,Men,510,time-trial,,,Time Trial 2018,5,6,2018,no,with turn; ODP,NA,NA
+Petri Alva,K1,2000,Men,622,time-trial,,,Time Trial 2018,5,6,2018,no,with turn; ODP,NA,NA
+Philip Majumdar,K1,2000,Men,628,time-trial,,,Time Trial 2018,5,6,2018,no,with turn; ODP,NA,NA
+Samantha Barlow,K1,2000,Women,570,time-trial,,,Time Trial 2018,5,6,2018,no,with turn; ODP,NA,NA
+Sarah Grady,C1,2000,Women,765,time-trial,,,Time Trial 2018,5,6,2018,no,with turn; ODP; wind,NA,NA
+Sierra Noskoff,K1,2000,Women,574,time-trial,,,Time Trial 2018,5,6,2018,no,with turn; ODP,NA,NA
+Stanton Collins,K1,2000,Men,509,time-trial,,,Time Trial 2018,5,6,2018,no,with turn; ODP,NA,NA
+Thom Crockett,K1,2000,Men,533,time-trial,,,Time Trial 2018,5,6,2018,no,with turn; ODP,NA,NA
+Tim Burdiak,K1,2000,Men,530,time-trial,,,Time Trial 2018,5,6,2018,no,with turn; ODP,NA,NA
+Trisha Martinson,K1,2000,Women,636,time-trial,,,Time Trial 2018,5,6,2018,no,with turn; ODP,NA,NA
+Tucker Goetz,K1,2000,Men,588,time-trial,,,Time Trial 2018,5,6,2018,no,with turn; ODP,NA,NA
+Vaughn Schenk,K1,2000,Men,675,time-trial,,,Time Trial 2018,5,6,2018,no,with turn,NA,NA
+Zachary Alva,K1,2000,Men,568,time-trial,,,Time Trial 2018,5,6,2018,no,with turn; ODP,NA,NA
+Zoe Hein,C1,2000,Women,735,time-trial,,,Time Trial 2018,5,6,2018,no,with turn; ODP; wind,NA,NA
+Zoe Hunt,K1,2000,Women,679,time-trial,,,Time Trial 2018,5,6,2018,no,with turn; ODP,NA,NA
+Cian Donovan,K1,200,Men,56.6,time-trial,,,Time Trial 2018,6,22,2018,no,,NA,NA
+Cian Donovan,K1,200,Men,59,time-trial,,,Time Trial 2018,6,22,2018,no,,NA,NA
+Ella Bloomquist,K1,200,Men,61.9,time-trial,,,Time Trial 2018,6,22,2018,no,,NA,NA
+Ella Bloomquist,K1,200,Men,64,time-trial,,,Time Trial 2018,6,22,2018,no,,NA,NA
+Eric McCluskey,K1,200,Men,48.7,time-trial,,,Time Trial 2018,6,22,2018,no,,NA,NA
+Eric McCluskey,K1,200,Men,49.5,time-trial,,,Time Trial 2018,6,22,2018,no,,NA,NA
+Jake Zikan,K1,200,Men,41.2,time-trial,,,Time Trial 2018,6,22,2018,no,,NA,NA
+Jake Zikan,K1,200,Men,42.6,time-trial,,,Time Trial 2018,6,22,2018,no,,NA,NA
+Liam Jennings,K1,200,Men,44.5,time-trial,,,Time Trial 2018,6,22,2018,no,,NA,NA
+Liam Jennings,K1,200,Men,45.7,time-trial,,,Time Trial 2018,6,22,2018,no,,NA,NA
+Owen White,K1,200,Men,55.7,time-trial,,,Time Trial 2018,6,22,2018,no,,NA,NA
+Owen White,K1,200,Men,58.5,time-trial,,,Time Trial 2018,6,22,2018,no,,NA,NA
+Vaughn Schenk,K1,200,Men,46.6,time-trial,,,Time Trial 2018,6,22,2018,no,,NA,NA
+Vaughn Schenk,K1,200,Men,48.1,time-trial,,,Time Trial 2018,6,22,2018,no,,NA,NA
+Aaron Small,K1,200,Men,40,time-trial,,,Time Trial 2018,7,24,2018,no,,NA,NA
+Aaron Small,K1,500,Men,108,time-trial,,,Time Trial 2018,7,13,2018,no,Zvikov,NA,NA
+Aaron Small,K1,1000,Men,243,time-trial,,,Time Trial 2018,7,13,2018,no,Zvikov,NA,NA
+Aaron Small,K1,1000,Men,244,time-trial,,,Time Trial 2018,7,24,2018,no,hit by big wake at 150m to go; stopped,NA,NA
+Aaron Small; Jake Zikan,K2,200,Men,38,time-trial,,,Time Trial 2018,7,21,2018,no,,NA,NA
+Aaron Small; Jake Zikan,K2,1000,Men,229,time-trial,,,Time Trial 2018,7,21,2018,no,,NA,NA
+Aaron Small; Jake Zikan; Vaughn Schenk; Liam Jennings,K4,500,Men,105,time-trial,,,Time Trial 2018,7,21,2018,no,,NA,NA
+Einar Ogle,K1,200,Men,56,time-trial,,,Time Trial 2018,7,21,2018,no,,NA,NA
+Einar Ogle,K1,500,Men,156,time-trial,,,Time Trial 2018,7,21,2018,no,,NA,NA
+Einar Ogle,K1,1000,Men,330,time-trial,,,Time Trial 2018,7,21,2018,no,,NA,NA
+Hana Neutz,C1,1000,Women,374,time-trial,,,Time Trial 2018,7,21,2018,no,,NA,NA
+Hayden Gosch,K1,200,Men,58,time-trial,,,Time Trial 2018,7,21,2018,no,,NA,NA
+Hayden Gosch,K1,500,Men,158,time-trial,,,Time Trial 2018,7,21,2018,no,,NA,NA
+Hayden Gosch,K1,1000,Men,348,time-trial,,,Time Trial 2018,7,21,2018,no,,NA,NA
+Jake Zikan,K1,200,Men,42,time-trial,,,Time Trial 2018,7,24,2018,no,,NA,NA
+Jake Zikan,K1,500,Men,112,time-trial,,,Time Trial 2018,7,13,2018,no,Zvikov,NA,NA
+Jake Zikan,K1,1000,Men,239,time-trial,,,Time Trial 2018,7,13,2018,no,Zvikov,NA,NA
+Jake Zikan,K1,1000,Men,242,time-trial,,,Time Trial 2018,7,24,2018,no,hit by big wake at 150m to go; stopped,NA,NA
+John DePalma,K1,1000,Men,277,time-trial,,,Time Trial 2018,7,21,2018,no,,NA,NA
+Liam Jennings,K1,200,Men,48,time-trial,,,Time Trial 2018,7,21,2018,no,,NA,NA
+Liam Jennings,K1,500,Men,123,time-trial,,,Time Trial 2018,7,13,2018,no,Zvikov,NA,NA
+Liam Jennings,K1,1000,Men,260,time-trial,,,Time Trial 2018,7,13,2018,no,Zvikov,NA,NA
+Liam Jennings,K1,1000,Men,267,time-trial,,,Time Trial 2018,7,21,2018,no,,NA,NA
+Naomi Prahl,C1,1000,Women,392,time-trial,,,Time Trial 2018,7,21,2018,no,,NA,NA
+Nevin Harrison,C1,200,Women,48,time-trial,,,Time Trial 2018,7,21,2018,no,,NA,NA
+Nevin Harrison,C1,1000,Women,312,time-trial,,,Time Trial 2018,7,21,2018,no,,NA,NA
+Owen Jennings,K1,200,Men,59,time-trial,,,Time Trial 2018,7,21,2018,no,,NA,NA
+Owen Jennings,K1,1000,Men,358,time-trial,,,Time Trial 2018,7,21,2018,no,,NA,NA
+Vaughn Schenk,K1,200,Men,50,time-trial,,,Time Trial 2018,7,21,2018,no,,NA,NA
+Vaughn Schenk,K1,500,Men,126,time-trial,,,Time Trial 2018,7,13,2018,no,,NA,NA
+Vaughn Schenk,K1,1000,Men,276,time-trial,,,Time Trial 2018,7,21,2018,no,,NA,NA
+Aaron Small; Jake Zikan,K2,200,Men,38,time-trial,,,Time Trial 2018,8,18,2018,no,,NA,NA
+Aaron Small; Jake Zikan,K2,1000,Men,225,time-trial,,,Time Trial 2018,8,18,2018,no,,NA,NA
+Einar Ogle,K1,500,Men,170.7,time-trial,,,Time Trial 2019,9,1,2018,no,,NA,NA
+Einar Ogle,K1,200,Men,59.3,time-trial,,,Time Trial 2019,9,1,2018,no,,NA,NA
+Jake Zikan,K1,500,Men,121.5,time-trial,,,Time Trial 2019,9,1,2018,no,,NA,NA
+Jake Zikan,K1,200,Men,43,time-trial,,,Time Trial 2019,9,1,2018,no,,NA,NA
+Liam Jennings,K1,500,Men,132.3,time-trial,,,Time Trial 2019,9,1,2018,no,,NA,NA
+Liam Jennings,K1,200,Men,46.1,time-trial,,,Time Trial 2019,9,1,2018,no,,NA,NA
+Ronan Nopp,K1,500,Men,161.2,time-trial,,,Time Trial 2019,9,1,2018,no,,NA,NA
+Ronan Nopp,K1,200,Men,55.7,time-trial,,,Time Trial 2019,9,1,2018,no,,NA,NA
+Soren Ogle,K1,500,Men,186.8,time-trial,,,Time Trial 2019,9,1,2018,no,,NA,NA
+Soren Ogle,K1,200,Men,69.3,time-trial,,,Time Trial 2019,9,1,2018,no,,NA,NA
+Vaughn Schenk,K1,2000,Men,572,time-trial,,,Time Trial 2019,12,31,2018,no,,NA,NA
+Aaron Small,K1,2000,Men,566,time-trial,,,Time Trial 2019,1,31,2019,no,,NA,NA
+Aaron Small,K1,2000,Men,566,time-trial,,,Time Trial 2019,1,1,2019,no,with turn; ODP,NA,NA
+Alina Urs,K1,2000,Women,611,time-trial,,,Time Trial 2019,1,1,2019,no,with turn; ODP,NA,NA
+Ashby Bodine,K1,2000,Men,523,time-trial,,,Time Trial 2019,1,1,2019,no,with turn; ODP,NA,NA
+Ashby Bodine,K1,2000,Men,523,time-trial,,,Time Trial 2019,1,1,2019,no,with turn; ODP,NA,NA
+Courtney Stow,K1,2000,Women,664,time-trial,,,Time Trial 2019,1,1,2019,no,with turn; ODP,NA,NA
+Danielle Borm,K1,2000,Women,642,time-trial,,,Time Trial 2019,1,1,2019,no,with turn; ODP,NA,NA
+Dylan Anacleto-Black,K1,2000,Men,638,time-trial,,,Time Trial 2019,1,1,2019,no,with turn; ODP,NA,NA
+Dylan Anacleto-Black,K1,2000,Men,638,time-trial,,,Time Trial 2019,1,1,2019,no,with turn; ODP,NA,NA
+Evan Truesdale,K1,2000,Men,524,time-trial,,,Time Trial 2019,1,1,2019,no,with turn; ODP,NA,NA
+Evan Truesdale,K1,2000,Men,524,time-trial,,,Time Trial 2019,1,1,2019,no,with turn; ODP,NA,NA
+Gavin Ross,C1,2000,Men,539,time-trial,,,Time Trial 2019,1,1,2019,no,with turn; ODP,NA,NA
+Gavin Ross,K1,2000,Men,539,time-trial,,,Time Trial 2019,1,1,2019,no,with turn; ODP,NA,NA
+Geome Ramirez,K1,2000,Women,721,time-trial,,,Time Trial 2019,1,1,2019,no,with turn; ODP,NA,NA
+Jacob Eash,K1,2000,Men,582,time-trial,,,Time Trial 2019,1,1,2019,no,with turn; ODP,NA,NA
+Jacob Eash,K1,2000,Men,582,time-trial,,,Time Trial 2019,1,1,2019,no,with turn; ODP,NA,NA
+Jake Zikan,K1,2000,Men,594,time-trial,,,Time Trial 2019,1,31,2019,no,,NA,NA
+Jake Zikan,K1,2000,Men,594,time-trial,,,Time Trial 2019,1,1,2019,no,with turn; ODP,NA,NA
+Jasper Caddell,K1,2000,Men,583,time-trial,,,Time Trial 2019,1,1,2019,no,with turn; ODP,NA,NA
+Jasper Caddell,K1,2000,Men,583,time-trial,,,Time Trial 2019,1,1,2019,no,with turn; ODP,NA,NA
+Jesse Lishchuk,K1,2000,Men,532,time-trial,,,Time Trial 2019,1,1,2019,no,with turn; ODP,NA,NA
+Jesse Lishchuk,K1,2000,Men,532,time-trial,,,Time Trial 2019,1,1,2019,no,with turn; ODP,NA,NA
+Kaitlyn McElroy,K1,2000,Women,569,time-trial,,,Time Trial 2019,1,1,2019,no,with turn; ODP,NA,NA
+Kasen Taylor,K1,2000,Men,634,time-trial,,,Time Trial 2019,1,1,2019,no,with turn; ODP,NA,NA
+Kasen Taylor,K1,2000,Men,634,time-trial,,,Time Trial 2019,1,1,2019,no,with turn; ODP,NA,NA
+Lia Giatano,C1,2000,Women,705,time-trial,,,Time Trial 2019,1,1,2019,no,with turn; ODP,NA,NA
+Mira Corrao,K1,2000,Women,611,time-trial,,,Time Trial 2019,1,1,2019,no,with turn; ODP,NA,NA
+Morgan Jacobsen,C1,2000,Women,745,time-trial,,,Time Trial 2019,1,1,2019,no,with turn; ODP,NA,NA
+Nate Errez,K1,2000,Men,543,time-trial,,,Time Trial 2019,1,1,2019,no,with turn; ODP,NA,NA
+Nate Errez,K1,2000,Men,543,time-trial,,,Time Trial 2019,1,1,2019,no,with turn; ODP,NA,NA
+Nathan Humbertson,K1,2000,Men,522,time-trial,,,Time Trial 2019,1,1,2019,no,with turn; ODP,NA,NA
+Noah Mack,K1,2000,Men,712,time-trial,,,Time Trial 2019,1,1,2019,no,with turn; ODP,NA,NA
+Noah Mack,K1,2000,Men,712,time-trial,,,Time Trial 2019,1,1,2019,no,with turn; ODP,NA,NA
+Petri Alva,K1,2000,Men,630,time-trial,,,Time Trial 2019,1,1,2019,no,with turn; ODP,NA,NA
+Petri Alva,K1,2000,Men,630,time-trial,,,Time Trial 2019,1,1,2019,no,with turn; ODP,NA,NA
+Philip Majumdar,K1,2000,Men,615,time-trial,,,Time Trial 2019,1,1,2019,no,with turn; ODP,NA,NA
+Philip Majumdar,K1,2000,Men,615,time-trial,,,Time Trial 2019,1,1,2019,no,with turn; ODP,NA,NA
+Rachelle Brown,C1,2000,Women,730,time-trial,,,Time Trial 2019,1,1,2019,no,with turn; ODP,NA,NA
+Renae Jackson,K1,2000,Women,588,time-trial,,,Time Trial 2019,1,1,2019,no,with turn; ODP,NA,NA
+Samantha Barlow,K1,2000,Women,571,time-trial,,,Time Trial 2019,1,1,2019,no,with turn; ODP,NA,NA
+Shaye Hatchette,K1,2000,Women,662,time-trial,,,Time Trial 2019,1,1,2019,no,with turn; ODP,NA,NA
+Thom Crockett,K1,2000,Men,563,time-trial,,,Time Trial 2019,1,1,2019,no,with turn; ODP,NA,NA
+Thom Crockett,K1,2000,Men,563,time-trial,,,Time Trial 2019,1,1,2019,no,with turn; ODP,NA,NA
+Vaughn Schenk,K1,2000,Men,572,time-trial,,,Time Trial 2019,1,1,2019,no,with turn; ODP,NA,NA
+Wilson Reavley,K1,2000,Men,588,time-trial,,,Time Trial 2019,1,31,2019,no,,NA,NA
+Wilson Reavley,K1,2000,Men,588,time-trial,,,Time Trial 2019,1,1,2019,no,with turn; ODP,NA,NA
+Zachary Alva,K1,2000,Men,587,time-trial,,,Time Trial 2019,1,1,2019,no,with turn; ODP,NA,NA
+Zachary Alva,K1,2000,Men,587,time-trial,,,Time Trial 2019,1,1,2019,no,with turn; ODP,NA,NA
+Zoe Hein,C1,2000,Women,698,time-trial,,,Time Trial 2019,1,1,2019,no,with turn; ODP,NA,NA
+Alex Lee,K1,2000,Men,615,time-trial,,,Time Trial 2019,2,1,2019,no,with turn; ODP,NA,NA
+Alina Urs,K1,2000,Women,598,time-trial,,,Time Trial 2019,2,1,2019,no,with turn; ODP,NA,NA
+Ann Armstrong,C1,2000,Women,730,time-trial,,,Time Trial 2019,2,1,2019,no,with turn; ODP,NA,NA
+Dylan Anacleto-Black,K1,2000,Men,620,time-trial,,,Time Trial 2019,2,1,2019,no,with turn; ODP,NA,NA
+Evan Truesdale,K1,2000,Men,606,time-trial,,,Time Trial 2019,2,1,2019,no,with turn; ODP,NA,NA
+Jasper Caddell,K1,2000,Men,578,time-trial,,,Time Trial 2019,2,1,2019,no,with turn; ODP,NA,NA
+Jesse Lishchuk,K1,2000,Men,500,time-trial,,,Time Trial 2019,2,1,2019,no,with turn; ODP,NA,NA
+Kaitlyn McElroy,K1,2000,Women,553,time-trial,,,Time Trial 2019,2,1,2019,no,with turn; ODP,NA,NA
+Kasen Taylor,K1,2000,Men,602,time-trial,,,Time Trial 2019,2,1,2019,no,with turn; ODP,NA,NA
+Kitsy Nipper,K1,2000,Women,626,time-trial,,,Time Trial 2019,2,1,2019,no,with turn; ODP,NA,NA
+Morgan Jacobsen,C1,2000,Women,780,time-trial,,,Time Trial 2019,2,1,2019,no,with turn; ODP,NA,NA
+Nate Errez,K1,2000,Men,515,time-trial,,,Time Trial 2019,2,1,2019,no,with turn; ODP,NA,NA
+Nathan Humbertson,K1,2000,Men,497,time-trial,,,Time Trial 2019,2,1,2019,no,with turn; ODP,NA,NA
+Noah Mack,K1,2000,Men,715,time-trial,,,Time Trial 2019,2,1,2019,no,with turn; ODP,NA,NA
+Petri Alva,K1,2000,Men,604,time-trial,,,Time Trial 2019,2,1,2019,no,with turn; ODP,NA,NA
+Philip Majumdar,K1,2000,Men,580,time-trial,,,Time Trial 2019,2,1,2019,no,with turn; ODP,NA,NA
+Renae Jackson,K1,2000,Women,582,time-trial,,,Time Trial 2019,2,1,2019,no,with turn; ODP,NA,NA
+Samantha Barlow,K1,2000,Women,562,time-trial,,,Time Trial 2019,2,1,2019,no,with turn; ODP,NA,NA
+Thom Crockett,K1,2000,Men,532,time-trial,,,Time Trial 2019,2,1,2019,no,with turn; ODP,NA,NA
+Tim Burdiak,K1,2000,Men,517,time-trial,,,Time Trial 2019,2,1,2019,no,with turn; ODP,NA,NA
+Zachary Alva,K1,2000,Men,562,time-trial,,,Time Trial 2019,2,1,2019,no,with turn; ODP,NA,NA
+Zoe Hein,C1,2000,Women,690,time-trial,,,Time Trial 2019,2,1,2019,no,with turn; ODP,NA,NA
+Aaron Small,K1,500,Men,110,time-trial,,,Time Trial 2019,3,24,2019,no,,NA,NA
+Jake Zikan,K1,500,Men,121,time-trial,,,Time Trial 2019,3,23,2019,no,,NA,NA
+Vaughn Schenk,K1,500,Men,124,time-trial,,,Time Trial 2019,3,23,2019,no,,NA,NA
+Vaughn Schenk,K1,500,Men,118,time-trial,,,Time Trial 2019,3,24,2019,no,,NA,NA
+Vaughn Schenk,K1,500,Men,121,time-trial,,,Time Trial 2019,3,24,2019,no,,NA,NA
+Vaughn Schenk,K1,500,Men,120,time-trial,,,Time Trial 2019,3,24,2019,no,,NA,NA
+Wilson Reavley,K1,500,Men,118,time-trial,,,Time Trial 2019,3,24,2019,no,,NA,NA
+Hayden Gosch,K1,2000,Men,756,time-trial,,,Time Trial 2019,5,1,2019,no,with turn; ODP,NA,NA
+Liam Jennings,K1,2000,Men,642,time-trial,,,Time Trial 2019,5,1,2019,no,with turn; ODP,NA,NA
+Ronan Nopp,K1,2000,Men,713,time-trial,,,Time Trial 2019,5,1,2019,no,with turn; ODP,NA,NA
+Vaughn Schenk,K1,2000,Men,609,time-trial,,,Time Trial 2019,5,1,2019,no,with turn; ODP,NA,NA

@@ -1,0 +1,22 @@
+var cdJsHost="https:"==document.location.protocol?"https://":"http://",axel,a,__cho__,_prum;document.write(unescape("%3Cscript src='"+cdJsHost+"analytics.clickdimensions.com/ts.js' type='text/javascript'%3E%3C/script%3E"));enableCrazyEgg&&setTimeout(function(){var n=document.createElement("script"),t=document.getElementsByTagName("script")[0];n.src=document.location.protocol+"//web.archive.org/web/20160515013934/http://dnn506yrbagrg.cloudfront.net/pages/scripts/0010/4034.js?"+Math.floor((new Date).getTime()/36e5);n.async=!0;n.type="text/javascript";t.parentNode.insertBefore(n,t)},1);enableTrackingPixel&&(function(){var t=window._fbq||(window._fbq=[]),n,i;t.loaded||(n=document.createElement("script"),n.async=!0,n.src="//web.archive.org/web/20160515013934/http://connect.facebook.net/en_US/fbds.js",i=document.getElementsByTagName("script")[0],i.parentNode.insertBefore(n,i),t.loaded=!0);t.push(["addPixelId","648624018517528"])}(),window._fbq=window._fbq||[],window._fbq.push(["track","PixelInitialized",{}]),twttr.conversion.trackPid("l65rw",{tw_sale_amount:0,tw_order_quantity:0}),axel=Math.random()+"",a=axel*1e13,document.write('<iframe src="https://web.archive.org/web/20160515013934/https://3626710.fls.doubleclick.net/activityi;src=3626710;type=sitew0;cat=teamu0;ord='+a+'?" width="1" height="1" frameborder="0" style="display:none"><\/iframe>'),__cho__={data:{puid2:"[PUID]"},pid:6151},function(){var n=document.createElement("script"),t;n.type="text/javascript";n.async=!0;n.src=document.location.protocol+"//web.archive.org/web/20160515013934/http://cc.chango.com/static/o.js";t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(n,t)}());pingdomCodes&&0!==pingdomCodes.length||(_prum=[["id",pingdomCodes],["mark","firstbyte",(new Date).getTime()]],function(){var t=document.getElementsByTagName("script")[0],n=document.createElement("script");n.async="async";n.src="//web.archive.org/web/20160515013934/http://rum-static.pingdom.net/prum.min.js";t.parentNode.insertBefore(n,t)}())
+/*
+     FILE ARCHIVED ON 01:39:34 May 15, 2016 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 00:04:08 May 11, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  LoadShardBlock: 143.38 (3)
+  esindex: 0.007
+  captures_list: 164.883
+  CDXLines.iter: 12.91 (3)
+  PetaboxLoader3.datanode: 697.278 (5)
+  exclusion.robots: 0.201
+  exclusion.robots.policy: 0.177
+  RedisCDXSource: 4.355
+  PetaboxLoader3.resolve: 286.081 (2)
+  load_resource: 853.024
+*/

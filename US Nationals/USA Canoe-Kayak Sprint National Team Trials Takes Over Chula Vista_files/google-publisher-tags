@@ -1,0 +1,22 @@
+var googletag=googletag||{};googletag.cmd=googletag.cmd||[],function(){var n=document.createElement("script"),i,t;n.async=!0;n.type="text/javascript";i="https:"==document.location.protocol;n.src=(i?"https:":"http:")+"//web.archive.org/web/20160515013933/http://www.googletagservices.com/tag/js/gpt.js";t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(n,t)}()
+/*
+     FILE ARCHIVED ON 01:39:33 May 15, 2016 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 00:04:07 May 11, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  LoadShardBlock: 289.752 (3)
+  esindex: 0.006
+  captures_list: 346.786
+  CDXLines.iter: 19.607 (3)
+  PetaboxLoader3.datanode: 370.767 (5)
+  exclusion.robots: 0.312
+  exclusion.robots.policy: 0.28
+  RedisCDXSource: 0.833
+  PetaboxLoader3.resolve: 159.239 (2)
+  load_resource: 282.43
+*/

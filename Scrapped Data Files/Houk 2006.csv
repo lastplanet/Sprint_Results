@@ -1,0 +1,706 @@
+name,boat,event,gender,time,type,finish,level,venue,month,day,year,certified,notes,venue.long,race.name
+Brock Rawstron,K1,1000,Men,259.04,Heat,1,Senior,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,2 Event #2: K-1 M Sr 1000 Heat 2
+Eric Moll,K1,1000,Men,261.6,Heat,2,Senior,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,2 Event #2: K-1 M Sr 1000 Heat 2
+Sean Franklin,K1,1000,Men,270.03,Heat,3,Senior,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,2 Event #2: K-1 M Sr 1000 Heat 2
+Donald Kiesling,K1,1000,Men,276.64,Heat,4,Senior,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,2 Event #2: K-1 M Sr 1000 Heat 2
+Jeff Raymond,K1,1000,Men,279.63,Heat,5,Senior,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,2 Event #2: K-1 M Sr 1000 Heat 2
+Wesley Erikson,K1,1000,Men,290.01,Heat,6,Senior,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,2 Event #2: K-1 M Sr 1000 Heat 2
+John George,K1,1000,Men,306.9,Heat,7,Senior,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,2 Event #2: K-1 M Sr 1000 Heat 2
+Robert Estelle,K1,1000,Men,308.76,Heat,8,Senior,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,2 Event #2: K-1 M Sr 1000 Heat 2
+Katy Hill,K1,1000,Women,309.41,Heat,1,Bantam,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,3 Event #15: K-1 W Ban 1000 Heat 1
+Molly McComas,K1,1000,Women,313.91,Heat,2,Bantam,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,3 Event #15: K-1 W Ban 1000 Heat 1
+Molly Timmons,K1,1000,Women,335.32,Heat,3,Bantam,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,3 Event #15: K-1 W Ban 1000 Heat 1
+Jessie Mitchell,K1,1000,Women,337.57,Heat,4,Bantam,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,3 Event #15: K-1 W Ban 1000 Heat 1
+Kailey Hansen,K1,1000,Women,353.97,Heat,5,Bantam,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,3 Event #15: K-1 W Ban 1000 Heat 1
+Sara Mitchell,K1,1000,Women,368.08,Heat,6,Bantam,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,3 Event #15: K-1 W Ban 1000 Heat 1
+Mclane Harrington,K1,1000,Women,370.39,Heat,7,Bantam,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,3 Event #15: K-1 W Ban 1000 Heat 1
+Oriana Lavilla,K1,1000,Women,387.9,Heat,8,Bantam,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,3 Event #15: K-1 W Ban 1000 Heat 1
+Olivia Jensen,K1,1000,Women,425.78,Heat,9,Bantam,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,3 Event #15: K-1 W Ban 1000 Heat 1
+Daphne Austin,K1,1000,Women,440.32,Heat,10,Bantam,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,3 Event #15: K-1 W Ban 1000 Heat 1
+Abbie Barber,K1,1000,Women,344.03,Heat,1,Bantam,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,4 Event #15: K-1 W Ban 1000 Heat 2
+Mia Overton,K1,1000,Women,366.94,Heat,2,Bantam,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,4 Event #15: K-1 W Ban 1000 Heat 2
+Bailey Nurmia,K1,1000,Women,380.4,Heat,3,Bantam,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,4 Event #15: K-1 W Ban 1000 Heat 2
+Emma Metzger,K1,1000,Women,395.77,Heat,4,Bantam,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,4 Event #15: K-1 W Ban 1000 Heat 2
+Karin Nord,K1,1000,Women,406.37,Heat,5,Bantam,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,4 Event #15: K-1 W Ban 1000 Heat 2
+Adrienne Remijan,K1,1000,Women,446.68,Heat,6,Bantam,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,4 Event #15: K-1 W Ban 1000 Heat 2
+Hannah Harris,K1,1000,Women,448.5,Heat,7,Bantam,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,4 Event #15: K-1 W Ban 1000 Heat 2
+Abby Ernst,K1,1000,Women,470.81,Heat,8,Bantam,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,4 Event #15: K-1 W Ban 1000 Heat 2
+Evelyn Brown,K1,1000,Women,NA,Heat,DNF,Bantam,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,4 Event #15: K-1 W Ban 1000 Heat 2
+Ken Muir,K1,1000,Men,269.27,Heat,1,Juvenile,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,5 Event #19: K-1 M Juv 1000 Heat 1
+Nicholas Toering,K1,1000,Men,269.87,Heat,2,Juvenile,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,5 Event #19: K-1 M Juv 1000 Heat 1
+Elliot Hoyt,K1,1000,Men,280.09,Heat,3,Juvenile,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,5 Event #19: K-1 M Juv 1000 Heat 1
+Keith Kelleway,K1,1000,Men,285.15,Heat,4,Juvenile,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,5 Event #19: K-1 M Juv 1000 Heat 1
+David Johnson,K1,1000,Men,290.3,Heat,5,Juvenile,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,5 Event #19: K-1 M Juv 1000 Heat 1
+Adam Poole,K1,1000,Men,300.05,Heat,6,Juvenile,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,5 Event #19: K-1 M Juv 1000 Heat 1
+Troy Solly,K1,1000,Men,NA,Heat,SCR,Juvenile,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,5 Event #19: K-1 M Juv 1000 Heat 1
+Rhodric Bond,K1,1000,Men,268.46,Heat,1,Juvenile,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,6 Event #19: K-1 M Juv 1000 Heat 2
+Nick Hanoian,K1,1000,Men,269.33,Heat,2,Juvenile,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,6 Event #19: K-1 M Juv 1000 Heat 2
+Cedric Bond,K1,1000,Men,275.84,Heat,3,Juvenile,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,6 Event #19: K-1 M Juv 1000 Heat 2
+Brian Stopoulos,K1,1000,Men,283.23,Heat,4,Juvenile,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,6 Event #19: K-1 M Juv 1000 Heat 2
+Nate Anderson,K1,1000,Men,288.24,Heat,5,Juvenile,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,6 Event #19: K-1 M Juv 1000 Heat 2
+Mica Leuba,K1,1000,Men,292.78,Heat,6,Juvenile,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,6 Event #19: K-1 M Juv 1000 Heat 2
+Forrest Manant,K1,1000,Men,297.28,Heat,7,Juvenile,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,6 Event #19: K-1 M Juv 1000 Heat 2
+Dorin Popa,K1,1000,Men,298.78,Heat,1,Mas,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,7 Event #14: K-1 M Mas 1000 Heat 1
+Michael Gregory,K1,1000,Men,310.75,Heat,2,Mas,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,7 Event #14: K-1 M Mas 1000 Heat 1
+Grant Rawstron,K1,1000,Men,330.46,Heat,3,Mas,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,7 Event #14: K-1 M Mas 1000 Heat 1
+Dave Muir,K1,1000,Men,374.16,Heat,4,Mas,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,7 Event #14: K-1 M Mas 1000 Heat 1
+Jim Erickson,K1,1000,Men,375.08,Heat,5,Mas,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,7 Event #14: K-1 M Mas 1000 Heat 1
+Steve Wort,K1,1000,Men,376.02,Heat,6,Mas,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,7 Event #14: K-1 M Mas 1000 Heat 1
+John Flynn,K1,1000,Men,413.08,Heat,7,Mas,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,7 Event #14: K-1 M Mas 1000 Heat 1
+Hermelindo Soto,K1,1000,Men,NA,Heat,DNS,Mas,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,7 Event #14: K-1 M Mas 1000 Heat 1
+Guy Lawrence,K1,1000,Men,273.4,Heat,1,Mas,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,8 Event #14: K-1 M Mas 1000 Heat 2
+Jeff Raymond,K1,1000,Men,273.6,Heat,2,Mas,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,8 Event #14: K-1 M Mas 1000 Heat 2
+John George,K1,1000,Men,287.56,Heat,3,Mas,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,8 Event #14: K-1 M Mas 1000 Heat 2
+Daryl Remmler,K1,1000,Men,304.54,Heat,4,Mas,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,8 Event #14: K-1 M Mas 1000 Heat 2
+Karol Osusky,K1,1000,Men,319.52,Heat,5,Mas,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,8 Event #14: K-1 M Mas 1000 Heat 2
+Dan Bisalputra,K1,1000,Men,329.79,Heat,6,Mas,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,8 Event #14: K-1 M Mas 1000 Heat 2
+Eric Moll,K1,1000,Men,NA,Heat,SCR,Mas,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,8 Event #14: K-1 M Mas 1000 Heat 2
+Kailey Hansen; Molly McComas,K2,1000,Women,321.19,Heat,1,Bantam,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,9 Event #30: K-2 W Ban 1000 Heat 1
+Molly Timmons; Avery Unterreiner,K2,1000,Women,365.39,Heat,2,Bantam,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,9 Event #30: K-2 W Ban 1000 Heat 1
+Adrienne Remijan; Karin Nord,K2,1000,Women,399.95,Heat,3,Bantam,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,9 Event #30: K-2 W Ban 1000 Heat 1
+Daphne Austin; Hannah Harris,K2,1000,Women,427.2,Heat,4,Bantam,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,9 Event #30: K-2 W Ban 1000 Heat 1
+Abby Ernst; Lydia Keefe Sampson,K2,1000,Women,508.89,Heat,5,Bantam,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,9 Event #30: K-2 W Ban 1000 Heat 1
+Oriana Lavilla; Emma Metzger,K2,1000,Women,NA,Heat,DNF,Bantam,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,9 Event #30: K-2 W Ban 1000 Heat 1
+Abbie Barber; Katy Hill,K2,1000,Women,316.34,Heat,1,Bantam,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,10 Event #30: K-2 W Ban 1000 Heat 2
+Mclane Harrington; Mia Overton,K2,1000,Women,341.36,Heat,2,Bantam,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,10 Event #30: K-2 W Ban 1000 Heat 2
+Evelyn Brown; Bailey Nurmia,K2,1000,Women,342.4,Heat,3,Bantam,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,10 Event #30: K-2 W Ban 1000 Heat 2
+Jessie Mitchell; Hannah Nord,K2,1000,Women,363.26,Heat,4,Bantam,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,10 Event #30: K-2 W Ban 1000 Heat 2
+Sara Mitchell; Olivia Jensen,K2,1000,Women,365.01,Heat,5,Bantam,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,10 Event #30: K-2 W Ban 1000 Heat 2
+Rita McCall; Sarah Corsa,K2,1000,Women,445.54,Heat,6,Bantam,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,10 Event #30: K-2 W Ban 1000 Heat 2
+Brian Stopoulos,K1,1000,Men,283.45,Heat,1,Bantam,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,11 Event #6: K-1 M Ban 1000 Heat 1
+Jordan Trass,K1,1000,Men,295.44,Heat,2,Bantam,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,11 Event #6: K-1 M Ban 1000 Heat 1
+Kyle Bales,K1,1000,Men,320.21,Heat,3,Bantam,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,11 Event #6: K-1 M Ban 1000 Heat 1
+Zac Johnson,K1,1000,Men,326.77,Heat,4,Bantam,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,11 Event #6: K-1 M Ban 1000 Heat 1
+Troy Solly,K1,1000,Men,403.49,Heat,5,Bantam,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,11 Event #6: K-1 M Ban 1000 Heat 1
+Colton Meunch-Parsons,K1,1000,Men,404.46,Heat,6,Bantam,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,11 Event #6: K-1 M Ban 1000 Heat 1
+Thomas Sherman,K1,1000,Men,446.53,Heat,7,Bantam,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,11 Event #6: K-1 M Ban 1000 Heat 1
+Mattie Kuran,K1,1000,Men,NA,Heat,SCR,Bantam,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,11 Event #6: K-1 M Ban 1000 Heat 1
+Desmond Bond,K1,1000,Men,318.19,Heat,1,Bantam,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,12 Event #6: K-1 M Ban 1000 Heat 2
+Tom Ernst,K1,1000,Men,347.89,Heat,2,Bantam,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,12 Event #6: K-1 M Ban 1000 Heat 2
+Brian Malfesi,K1,1000,Men,351.68,Heat,3,Bantam,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,12 Event #6: K-1 M Ban 1000 Heat 2
+George White,K1,1000,Men,365.21,Heat,4,Bantam,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,12 Event #6: K-1 M Ban 1000 Heat 2
+Darris Rhoads,K1,1000,Men,435.73,Heat,5,Bantam,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,12 Event #6: K-1 M Ban 1000 Heat 2
+Mitchell Overton,K1,1000,Men,450.86,Heat,6,Bantam,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,12 Event #6: K-1 M Ban 1000 Heat 2
+Jeff Cayton,K1,1000,Men,494.79,Heat,7,Bantam,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,12 Event #6: K-1 M Ban 1000 Heat 2
+Rayne Tarasiuk; Sarah Poole; Kristin Bauder; Maggie Henderson,K4,1000,Women,235.61,Final,1,Junior,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,13 Event #26: K-4 W Jr 1000 Final
+Sara Armstrong; Annie Truscott; Emily Winskill; Kelsey Baker,K4,1000,Women,251.93,Final,2,Junior,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,13 Event #26: K-4 W Jr 1000 Final
+Kiran Basra; Abbie Barber; Katy Hill; Adele Klee,K4,1000,Women,261.56,Final,3,Junior,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,13 Event #26: K-4 W Jr 1000 Final
+Kailey Hansen; Molly McComas; Hannah McComas; Molly Timmons,K4,1000,Women,283.94,Final,4,Junior,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,13 Event #26: K-4 W Jr 1000 Final
+Sara Mitchell; Dayna Ortner; Jessie Mitchell; Olivia Jensen,K4,1000,Women,294.48,Final,5,Junior,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,13 Event #26: K-4 W Jr 1000 Final
+Evelyn Brown; Mclane Harrington; Zoe Nurmia; Mia Overton,K4,1000,Women,324.85,Final,6,Junior,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,13 Event #26: K-4 W Jr 1000 Final
+Daphne Austin; Oriana Lavilla; Hannah Harris; Emma Metzger,K4,1000,Women,398.94,Final,7,Junior,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,13 Event #26: K-4 W Jr 1000 Final
+Noah Skartvedt; Sam Wyckoff,C2,1000,Men,256.8,Final,1,Junior,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,14 Event #21: C-2 M Jr 1000 Final
+Yevgeniy Mikhaylov; Alden Keefe Sampson,C2,1000,Men,262.98,Final,2,Junior,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,14 Event #21: C-2 M Jr 1000 Final
+Brock Rawstron; Sean Franklin; Wes Hammer; Dion Maxwell,K4,1000,Men,214.53,Final,1,Senior,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,15 Event #32: K-4 M Sr 1000 Final
+Guy Lawrence; Donald Kiesling; Peter Turcan; Robert Estelle,K4,1000,Men,238.74,Final,2,Senior,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,15 Event #32: K-4 M Sr 1000 Final
+Grant Rawstron; Kathy Nay; Dave Muir; Steve Wort,K4,1000,Men,280.04,Final,3,Senior,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,15 Event #32: K-4 M Sr 1000 Final
+John George; Dan Bisalputra; Jeff Raymond; Daryl Remmler,K4,1000,Men,NA,Final,SCR,Senior,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,15 Event #32: K-4 M Sr 1000 Final
+Peter Turcan,K1,1000,Men,273.35,Semis,1,Senior,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,17 Event #2: K-1 M Sr 1000 Semifinal
+Donald Kiesling,K1,1000,Men,273.64,Semis,2,Senior,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,17 Event #2: K-1 M Sr 1000 Semifinal
+Jeff Raymond,K1,1000,Men,288.2,Semis,3,Senior,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,17 Event #2: K-1 M Sr 1000 Semifinal
+Wesley Erikson,K1,1000,Men,297.6,Semis,4,Senior,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,17 Event #2: K-1 M Sr 1000 Semifinal
+John George,K1,1000,Men,299.55,Semis,5,Senior,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,17 Event #2: K-1 M Sr 1000 Semifinal
+Daryl Remmler,K1,1000,Men,315,Semis,6,Senior,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,17 Event #2: K-1 M Sr 1000 Semifinal
+Steve Wort,K1,1000,Men,400.31,Semis,7,Senior,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,17 Event #2: K-1 M Sr 1000 Semifinal
+Robert Estelle,K1,1000,Men,NA,Semis,DNS,Senior,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,17 Event #2: K-1 M Sr 1000 Semifinal
+Jessie Mitchell,K1,1000,Women,344.02,Semis,1,Bantam,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,18 Event #15: K-1 W Ban 1000 Semifinal
+Kailey Hansen,K1,1000,Women,364.65,Semis,2,Bantam,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,18 Event #15: K-1 W Ban 1000 Semifinal
+Sara Mitchell,K1,1000,Women,367.42,Semis,3,Bantam,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,18 Event #15: K-1 W Ban 1000 Semifinal
+Mclane Harrington,K1,1000,Women,389.35,Semis,4,Bantam,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,18 Event #15: K-1 W Ban 1000 Semifinal
+Oriana Lavilla,K1,1000,Women,438.43,Semis,5,Bantam,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,18 Event #15: K-1 W Ban 1000 Semifinal
+Hannah Harris,K1,1000,Women,520.64,Semis,6,Bantam,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,18 Event #15: K-1 W Ban 1000 Semifinal
+Adrienne Remijan,K1,1000,Women,NA,Semis,DNS,Bantam,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,18 Event #15: K-1 W Ban 1000 Semifinal
+Karin Nord,K1,1000,Women,NA,Semis,DNF,Bantam,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,18 Event #15: K-1 W Ban 1000 Semifinal
+Emma Metzger,K1,1000,Women,NA,Semis,DNF,Bantam,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,18 Event #15: K-1 W Ban 1000 Semifinal
+Brian Stopoulos,K1,1000,Men,NA,Semis,1,Juvenile,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,19 Event #19: K-1 M Juv 1000 Semifinal
+Keith Kelleway,K1,1000,Men,NA,Semis,2,Juvenile,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,19 Event #19: K-1 M Juv 1000 Semifinal
+David Johnson,K1,1000,Men,NA,Semis,3,Juvenile,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,19 Event #19: K-1 M Juv 1000 Semifinal
+Mica Leuba,K1,1000,Men,NA,Semis,4,Juvenile,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,19 Event #19: K-1 M Juv 1000 Semifinal
+Nate Anderson,K1,1000,Men,NA,Semis,5,Juvenile,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,19 Event #19: K-1 M Juv 1000 Semifinal
+Forrest Manant,K1,1000,Men,NA,Semis,6,Juvenile,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,19 Event #19: K-1 M Juv 1000 Semifinal
+Adam Poole,K1,1000,Men,NA,Semis,7,Juvenile,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,19 Event #19: K-1 M Juv 1000 Semifinal
+Troy Solly,K1,1000,Men,NA,Semis,NA,Juvenile,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,19 Event #19: K-1 M Juv 1000 Semifinal
+Chris Koressel,C1,1000,Men,338.64,Final,1,Senior,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,20.1 Event #3: C-1 M Sr 1000 Final
+Tyler Martin,C1,1000,Men,359.38,Final,2,Senior,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,20.1 Event #3: C-1 M Sr 1000 Final
+Amina Saleh,C1,1000,Women,377.68,Final,1,Senior,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,20.2 Event #4: C-1 W Sr 1000 Final
+Megan Palmer,C1,1000,Women,407.94,Final,2,Senior,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,20.2 Event #4: C-1 W Sr 1000 Final
+Hannah McComas,C1,1000,Women,887.22,Final,3,Senior,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,20.2 Event #4: C-1 W Sr 1000 Final
+Jen Zimmerman; Lan Luan; Amina Saleh; Megan Palmer,K4,1000,Women,316.29,Final,1,Senior,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,21 Event #1: K-4 W Sr 1000 Final
+Virginia Kuran; Kathy Nay; Monica Varley; Liz Erickson,K4,1000,Women,NA,Final,DNS,Senior,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,21 Event #1: K-4 W Sr 1000 Final
+Daryl Remmler,K1,1000,Men,327.9,Semis,1,Mas,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,22 Event #14: K-1 M Mas 1000 Semifinal
+Dan Bisalputra,K1,1000,Men,336.75,Semis,2,Mas,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,22 Event #14: K-1 M Mas 1000 Semifinal
+Steve Wort,K1,1000,Men,388.35,Semis,3,Mas,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,22 Event #14: K-1 M Mas 1000 Semifinal
+Dave Muir,K1,1000,Men,390.28,Semis,4,Mas,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,22 Event #14: K-1 M Mas 1000 Semifinal
+Jim Erickson,K1,1000,Men,391.47,Semis,5,Mas,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,22 Event #14: K-1 M Mas 1000 Semifinal
+Karol Osusky,K1,1000,Men,NA,Semis,DNS,Mas,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,22 Event #14: K-1 M Mas 1000 Semifinal
+Sara Mitchell; Olivia Jensen,K2,1000,Women,375.11,Semis,1,Bantam,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,23 Event #30: K-2 W Ban 1000 Semifinal
+Jessie Mitchell; Hannah Nord,K2,1000,Women,406.74,Semis,2,Bantam,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,23 Event #30: K-2 W Ban 1000 Semifinal
+Rita McCall; Sarah Corsa,K2,1000,Women,460.86,Semis,3,Bantam,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,23 Event #30: K-2 W Ban 1000 Semifinal
+Abby Ernst; Lydia Keefe Sampson,K2,1000,Women,464.16,Semis,4,Bantam,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,23 Event #30: K-2 W Ban 1000 Semifinal
+Daphne Austin; Hannah Harris,K2,1000,Women,NA,Semis,DNS,Bantam,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,23 Event #30: K-2 W Ban 1000 Semifinal
+Zac Johnson,K1,1000,Men,347.94,Semis,1,Bantam,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,24 Event #6: K-1 M Ban 1000 Semifinal
+George White,K1,1000,Men,387.56,Semis,2,Bantam,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,24 Event #6: K-1 M Ban 1000 Semifinal
+Troy Solly,K1,1000,Men,435.34,Semis,3,Bantam,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,24 Event #6: K-1 M Ban 1000 Semifinal
+Jeff Cayton,K1,1000,Men,505.39,Semis,4,Bantam,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,24 Event #6: K-1 M Ban 1000 Semifinal
+Colton Meunch-Parsons,K1,1000,Men,NA,Semis,DNS,Bantam,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,24 Event #6: K-1 M Ban 1000 Semifinal
+Darris Rhoads,K1,1000,Men,NA,Semis,DNS,Bantam,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,24 Event #6: K-1 M Ban 1000 Semifinal
+Mitchell Overton,K1,1000,Men,NA,Semis,DNS,Bantam,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,24 Event #6: K-1 M Ban 1000 Semifinal
+Thomas Sherman,K1,1000,Men,NA,Semis,SCR,Bantam,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,24 Event #6: K-1 M Ban 1000 Semifinal
+Nick Hanoian; Wesley Erikson; David Johnson; Nicholas Toering,K4,1000,Men,228.08,Final,1,Junior,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,25 Event #11: K-4 M Jr 1000 Final
+Nate Anderson; Rhodric Bond; Cedric Bond; Forrest Manant,K4,1000,Men,230.35,Final,2,Junior,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,25 Event #11: K-4 M Jr 1000 Final
+Brian Hammer; Adam Poole; Ken Muir; Keith Kelleway,K4,1000,Men,230.6,Final,3,Junior,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,25 Event #11: K-4 M Jr 1000 Final
+Elliot Hoyt; Jordan Trass; Mica Leuba; Colton Meunch-Parsons,K4,1000,Men,265.41,Final,4,Junior,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,25 Event #11: K-4 M Jr 1000 Final
+Brian Stopoulos; Desmond Bond; Kyle Bales; Zac Johnson,K4,1000,Men,267.89,Final,5,Junior,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,25 Event #11: K-4 M Jr 1000 Final
+Monica Varley; Jen Zimmerman,K2,1000,Women,283.85,Final,1,Senior,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,26 Event #16: K-2 W Sr 1000 Final
+Heide Eden; Katja Rademacher,K2,1000,Women,296.81,Final,2,Senior,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,26 Event #16: K-2 W Sr 1000 Final
+Amina Saleh; Megan Palmer,K2,1000,Women,320.8,Final,3,Senior,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,26 Event #16: K-2 W Sr 1000 Final
+Lan Luan; Liz Erickson,K2,1000,Women,402.07,Final,4,Senior,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,26 Event #16: K-2 W Sr 1000 Final
+Alden Keefe Sampson,C1,1000,Men,322.57,Final,1,Junior,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,27 Event #27: C-1 M Jr 1000 Final
+Chris Koressel,C1,1000,Men,329.3,Final,2,Junior,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,27 Event #27: C-1 M Jr 1000 Final
+Sam Wyckoff,C1,1000,Men,348.15,Final,3,Junior,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,27 Event #27: C-1 M Jr 1000 Final
+Yevgeniy Mikhaylov,C1,1000,Men,363.33,Final,4,Junior,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,27 Event #27: C-1 M Jr 1000 Final
+Maggie Henderson,K1,1000,Women,283.12,Final,1,Junior,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,28 Event #35: K-1 W Jr 1000 Final
+Kristin Bauder,K1,1000,Women,287.03,Final,2,Junior,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,28 Event #35: K-1 W Jr 1000 Final
+Sara Armstrong,K1,1000,Women,300.48,Final,3,Junior,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,28 Event #35: K-1 W Jr 1000 Final
+Emily Winskill,K1,1000,Women,301.91,Final,4,Junior,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,28 Event #35: K-1 W Jr 1000 Final
+Kiran Basra,K1,1000,Women,302.76,Final,5,Junior,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,28 Event #35: K-1 W Jr 1000 Final
+Kelsey Baker,K1,1000,Women,308.51,Final,6,Junior,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,28 Event #35: K-1 W Jr 1000 Final
+Sarah Poole,K1,1000,Women,321.39,Final,7,Junior,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,28 Event #35: K-1 W Jr 1000 Final
+Adele Klee,K1,1000,Women,326.23,Final,8,Junior,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,28 Event #35: K-1 W Jr 1000 Final
+John George; Daryl Remmler,K2,1000,Men,274.59,Final,1,Mas,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,29 Event #46: K-2 M Mas 1000 Final
+Dan Bisalputra; Jeff Raymond,K2,1000,Men,278.71,Final,2,Mas,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,29 Event #46: K-2 M Mas 1000 Final
+Grant Rawstron; Dorin Popa,K2,1000,Men,291.14,Final,3,Mas,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,29 Event #46: K-2 M Mas 1000 Final
+Jim Erickson; John Flynn,K2,1000,Men,361.44,Final,4,Mas,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,29 Event #46: K-2 M Mas 1000 Final
+Dave Muir; Steve Wort,K2,1000,Men,362.76,Final,5,Mas,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,29 Event #46: K-2 M Mas 1000 Final
+Karol Osusky; Hermelindo Soto,K2,1000,Men,NA,Final,DNS,Mas,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,29 Event #46: K-2 M Mas 1000 Final
+Katy Hill,K1,1000,Women,307.45,Final,1,Bantam,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,30 Event #15: K-1 W Ban 1000 Final
+Abbie Barber,K1,1000,Women,308.07,Final,2,Bantam,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,30 Event #15: K-1 W Ban 1000 Final
+Molly McComas,K1,1000,Women,309.88,Final,3,Bantam,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,30 Event #15: K-1 W Ban 1000 Final
+Molly Timmons,K1,1000,Women,335.46,Final,4,Bantam,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,30 Event #15: K-1 W Ban 1000 Final
+Jessie Mitchell,K1,1000,Women,341.25,Final,5,Bantam,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,30 Event #15: K-1 W Ban 1000 Final
+Kailey Hansen,K1,1000,Women,363.63,Final,6,Bantam,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,30 Event #15: K-1 W Ban 1000 Final
+Mia Overton,K1,1000,Women,368.66,Final,7,Bantam,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,30 Event #15: K-1 W Ban 1000 Final
+Bailey Nurmia,K1,1000,Women,369.3,Final,8,Bantam,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,30 Event #15: K-1 W Ban 1000 Final
+Sara Mitchell,K1,1000,Women,372.34,Final,9,Bantam,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,30 Event #15: K-1 W Ban 1000 Final
+Cedric Bond,K1,1000,Men,253.59,Final,1,Juvenile,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,31 Event #19: K-1 M Juv 1000 Final
+Rhodric Bond,K1,1000,Men,256.77,Final,2,Juvenile,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,31 Event #19: K-1 M Juv 1000 Final
+Nicholas Toering,K1,1000,Men,258.71,Final,3,Juvenile,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,31 Event #19: K-1 M Juv 1000 Final
+Ken Muir,K1,1000,Men,260.87,Final,4,Juvenile,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,31 Event #19: K-1 M Juv 1000 Final
+Nick Hanoian,K1,1000,Men,271.72,Final,5,Juvenile,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,31 Event #19: K-1 M Juv 1000 Final
+Elliot Hoyt,K1,1000,Men,273.45,Final,6,Juvenile,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,31 Event #19: K-1 M Juv 1000 Final
+Keith Kelleway,K1,1000,Men,283.03,Final,7,Juvenile,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,31 Event #19: K-1 M Juv 1000 Final
+David Johnson,K1,1000,Men,284.68,Final,8,Juvenile,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,31 Event #19: K-1 M Juv 1000 Final
+Brian Stopoulos,K1,1000,Men,NA,Final,DNS,Juvenile,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,31 Event #19: K-1 M Juv 1000 Final
+Virginia Kuran; Kathy Nay,K2,1000,Women,291.55,Final,1,Mas,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,32 Event #50: K-2 W Mas 1000 Final
+Heide Eden; Katja Rademacher,K2,1000,Women,292.05,Final,2,Mas,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,32 Event #50: K-2 W Mas 1000 Final
+Viktoria Stepitova; Liz Erickson,K2,1000,Women,340.38,Final,3,Mas,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,32 Event #50: K-2 W Mas 1000 Final
+Alden Keefe Sampson,C1,1000,Men,327.6,Final,1,Juvenile,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,33 Event #48: C-1 M Juv 1000 Final
+Noah Skartvedt,C1,1000,Men,328.72,Final,2,Juvenile,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,33 Event #48: C-1 M Juv 1000 Final
+Sam Wyckoff,C1,1000,Men,356.26,Final,3,Juvenile,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,33 Event #48: C-1 M Juv 1000 Final
+Yevgeniy Mikhaylov,C1,1000,Men,379.33,Final,4,Juvenile,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,33 Event #48: C-1 M Juv 1000 Final
+Wes Hammer,K1,1000,Men,242.59,Final,1,Senior,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,34 Event #2: K-1 M Sr 1000 Final
+Dion Maxwell,K1,1000,Men,244.51,Final,2,Senior,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,34 Event #2: K-1 M Sr 1000 Final
+Brock Rawstron,K1,1000,Men,254.1,Final,3,Senior,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,34 Event #2: K-1 M Sr 1000 Final
+Eric Moll,K1,1000,Men,259.75,Final,4,Senior,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,34 Event #2: K-1 M Sr 1000 Final
+Jordan Malloch,K1,1000,Men,264.72,Final,5,Senior,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,34 Event #2: K-1 M Sr 1000 Final
+Sean Franklin,K1,1000,Men,266.09,Final,6,Senior,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,34 Event #2: K-1 M Sr 1000 Final
+Peter Turcan,K1,1000,Men,271.22,Final,7,Senior,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,34 Event #2: K-1 M Sr 1000 Final
+Donald Kiesling,K1,1000,Men,272.01,Final,8,Senior,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,34 Event #2: K-1 M Sr 1000 Final
+Jeff Raymond,K1,1000,Men,288.06,Final,9,Senior,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,34 Event #2: K-1 M Sr 1000 Final
+Brian Stopoulos; Desmond Bond,K2,1000,Men,280.16,Final,1,Bantam,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,36 Event #29: K-2 M Ban 1000 Final
+Jordan Trass; Sky Leuba,K2,1000,Men,289.82,Final,2,Bantam,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,36 Event #29: K-2 M Ban 1000 Final
+Kyle Bales; Zac Johnson,K2,1000,Men,321.69,Final,3,Bantam,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,36 Event #29: K-2 M Ban 1000 Final
+Tom Ernst; George White,K2,1000,Men,337.77,Final,4,Bantam,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,36 Event #29: K-2 M Ban 1000 Final
+Thomas Sherman; Brian Malfesi,K2,1000,Men,360.28,Final,5,Bantam,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,36 Event #29: K-2 M Ban 1000 Final
+Troy Solly; Darris Rhoads,K2,1000,Men,408.94,Final,6,Bantam,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,36 Event #29: K-2 M Ban 1000 Final
+Jeff Cayton; Mitchell Overton,K2,1000,Men,512.55,Final,7,Bantam,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,36 Event #29: K-2 M Ban 1000 Final
+Colton Meunch-Parsons; Mattie Kuran,K2,1000,Men,NA,Final,DNS,Bantam,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,36 Event #29: K-2 M Ban 1000 Final
+Wes Hammer; Dion Maxwell,K2,1000,Men,188.59,Final,1,Senior,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,37 Event #40: K-2 M Sr 1000 Final
+Brock Rawstron; Sean Franklin,K2,1000,Men,199.02,Final,2,Senior,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,37 Event #40: K-2 M Sr 1000 Final
+Eric Moll; David Fort,K2,1000,Men,209.65,Final,3,Senior,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,37 Event #40: K-2 M Sr 1000 Final
+Donald Kiesling; Peter Turcan,K2,1000,Men,218.17,Final,4,Senior,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,37 Event #40: K-2 M Sr 1000 Final
+Jeff Raymond,K1,1000,Men,283.96,Final,1,Mas,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,38 Event #14: K-1 M Mas 1000 Final
+Guy Lawrence,K1,1000,Men,284.47,Final,2,Mas,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,38 Event #14: K-1 M Mas 1000 Final
+John George,K1,1000,Men,297,Final,3,Mas,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,38 Event #14: K-1 M Mas 1000 Final
+Dorin Popa,K1,1000,Men,306.71,Final,4,Mas,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,38 Event #14: K-1 M Mas 1000 Final
+Michael Gregory,K1,1000,Men,316.48,Final,5,Mas,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,38 Event #14: K-1 M Mas 1000 Final
+Dan Bisalputra,K1,1000,Men,347.2,Final,6,Mas,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,38 Event #14: K-1 M Mas 1000 Final
+Grant Rawstron,K1,1000,Men,349.91,Final,7,Mas,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,38 Event #14: K-1 M Mas 1000 Final
+Steve Wort,K1,1000,Men,436.64,Final,8,Mas,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,38 Event #14: K-1 M Mas 1000 Final
+Daryl Remmler,K1,1000,Men,NA,Final,SCR,Mas,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,38 Event #14: K-1 M Mas 1000 Final
+Chris Koressel; Alden Keefe Sampson,C2,1000,Men,303.41,Final,1,Senior,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,39.1 Event #37: C-2 M Sr 1000 Final
+Tyler Martin; Sam Wyckoff,C2,1000,Men,321.29,Final,2,Senior,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,39.1 Event #37: C-2 M Sr 1000 Final
+Yevgeniy Mikhaylov; Noah Skartvedt,C2,1000,Men,339.19,Final,3,Senior,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,39.1 Event #37: C-2 M Sr 1000 Final
+Amina Saleh; Megan Palmer,C2,1000,Women,351.76,Final,1,Senior,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,39.2 Event #38: C-2 W Sr 1000 Final
+Cedric Bond,K1,1000,Men,253.24,Final,1,Junior,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,40 Event #45: K-1 M Jr 1000 Final
+Rhodric Bond,K1,1000,Men,257.58,Final,2,Junior,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,40 Event #45: K-1 M Jr 1000 Final
+Nicholas Toering,K1,1000,Men,263.95,Final,3,Junior,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,40 Event #45: K-1 M Jr 1000 Final
+Nick Hanoian,K1,1000,Men,274.44,Final,4,Junior,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,40 Event #45: K-1 M Jr 1000 Final
+Brian Hammer,K1,1000,Men,282.37,Final,5,Junior,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,40 Event #45: K-1 M Jr 1000 Final
+Wesley Erikson,K1,1000,Men,292.97,Final,6,Junior,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,40 Event #45: K-1 M Jr 1000 Final
+Abbie Barber; Katy Hill,K2,1000,Women,308.17,Final,1,Bantam,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,41 Event #30: K-2 W Ban 1000 Final
+Kailey Hansen; Molly McComas,K2,1000,Women,315.55,Final,2,Bantam,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,41 Event #30: K-2 W Ban 1000 Final
+Molly Timmons; Avery Unterreiner,K2,1000,Women,338.22,Final,3,Bantam,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,41 Event #30: K-2 W Ban 1000 Final
+Sara Mitchell; Olivia Jensen,K2,1000,Women,339.33,Final,4,Bantam,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,41 Event #30: K-2 W Ban 1000 Final
+Mclane Harrington; Mia Overton,K2,1000,Women,340.52,Final,5,Bantam,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,41 Event #30: K-2 W Ban 1000 Final
+Jessie Mitchell; Hannah Nord,K2,1000,Women,343.15,Final,6,Bantam,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,41 Event #30: K-2 W Ban 1000 Final
+Evelyn Brown; Bailey Nurmia,K2,1000,Women,345.77,Final,7,Bantam,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,41 Event #30: K-2 W Ban 1000 Final
+Adrienne Remijan; Karin Nord,K2,1000,Women,422.91,Final,8,Bantam,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,41 Event #30: K-2 W Ban 1000 Final
+Rita McCall; Sarah Corsa,K2,1000,Women,472.65,Final,9,Bantam,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,41 Event #30: K-2 W Ban 1000 Final
+Kelsey Baker,K1,1000,Women,285.2,Final,1,Senior,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,42 Event #31: K-1 W Sr 1000 Final
+Monica Varley,K1,1000,Women,286.32,Final,2,Senior,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,42 Event #31: K-1 W Sr 1000 Final
+Jen Zimmerman,K1,1000,Women,291.14,Final,3,Senior,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,42 Event #31: K-1 W Sr 1000 Final
+Katja Rademacher,K1,1000,Women,294.72,Final,4,Senior,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,42 Event #31: K-1 W Sr 1000 Final
+Adele Klee,K1,1000,Women,321.02,Final,5,Senior,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,42 Event #31: K-1 W Sr 1000 Final
+Lan Luan,K1,1000,Women,495.68,Final,6,Senior,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,42 Event #31: K-1 W Sr 1000 Final
+Heide Eden,K1,1000,Women,NA,Final,SCR,Senior,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,42 Event #31: K-1 W Sr 1000 Final
+Brian Stopoulos,K1,1000,Men,263.19,Final,1,Bantam,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,43 Event #6: K-1 M Ban 1000 Final
+Jordan Trass,K1,1000,Men,270.81,Final,2,Bantam,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,43 Event #6: K-1 M Ban 1000 Final
+Desmond Bond,K1,1000,Men,288.42,Final,3,Bantam,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,43 Event #6: K-1 M Ban 1000 Final
+Kyle Bales,K1,1000,Men,296.89,Final,4,Bantam,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,43 Event #6: K-1 M Ban 1000 Final
+Zac Johnson,K1,1000,Men,303.24,Final,5,Bantam,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,43 Event #6: K-1 M Ban 1000 Final
+Tom Ernst,K1,1000,Men,317.15,Final,6,Bantam,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,43 Event #6: K-1 M Ban 1000 Final
+Brian Malfesi,K1,1000,Men,318.83,Final,7,Bantam,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,43 Event #6: K-1 M Ban 1000 Final
+George White,K1,1000,Men,350.14,Final,8,Bantam,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,43 Event #6: K-1 M Ban 1000 Final
+Troy Solly,K1,1000,Men,365.12,Final,9,Bantam,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,43 Event #6: K-1 M Ban 1000 Final
+Kristin Bauder; Maggie Henderson,K2,1000,Women,236.63,Final,1,Junior,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,44 Event #51: K-2 W Jr 1000 Final
+Rayne Tarasiuk; Sarah Poole,K2,1000,Women,244.17,Final,2,Junior,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,44 Event #51: K-2 W Jr 1000 Final
+Annie Truscott; Emily Winskill,K2,1000,Women,258.98,Final,3,Junior,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,44 Event #51: K-2 W Jr 1000 Final
+Kiran Basra; Sara Armstrong,K2,1000,Women,262.49,Final,4,Junior,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,44 Event #51: K-2 W Jr 1000 Final
+Jessie Mitchell; Dayna Ortner,K2,1000,Women,265.94,Final,5,Junior,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,44 Event #51: K-2 W Jr 1000 Final
+Abbie Barber; Katy Hill,K2,1000,Women,267.88,Final,6,Junior,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,44 Event #51: K-2 W Jr 1000 Final
+Kelsey Baker; Adele Klee,K2,1000,Women,270.71,Final,7,Junior,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,44 Event #51: K-2 W Jr 1000 Final
+Zoe Nurmia; Emma Metzger,K2,1000,Women,322.93,Final,8,Junior,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,44 Event #51: K-2 W Jr 1000 Final
+Monica Varley,K1,1000,Women,285.86,Final,1,Mas,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,45 Event #39: K-1 W Mas 1000 Final
+Katja Rademacher,K1,1000,Women,289.33,Final,2,Mas,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,45 Event #39: K-1 W Mas 1000 Final
+Kathy Nay,K1,1000,Women,298.12,Final,3,Mas,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,45 Event #39: K-1 W Mas 1000 Final
+Virginia Kuran,K1,1000,Women,309.93,Final,4,Mas,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,45 Event #39: K-1 W Mas 1000 Final
+Heide Eden,K1,1000,Women,310.3,Final,5,Mas,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,45 Event #39: K-1 W Mas 1000 Final
+Liz Erickson,K1,1000,Women,319.98,Final,6,Mas,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,45 Event #39: K-1 W Mas 1000 Final
+Debbie Natelson,K1,1000,Women,351.14,Final,7,Mas,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,45 Event #39: K-1 W Mas 1000 Final
+Holly Townes,K1,1000,Women,358.69,Final,8,Mas,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,45 Event #39: K-1 W Mas 1000 Final
+Gerrie Hashisaki,K1,1000,Women,379.33,Final,9,Mas,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,45 Event #39: K-1 W Mas 1000 Final
+Rayne Tarasiuk,K1,1000,Women,292.33,Final,1,Juvenile,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,46 Event #47: K-1 W Juv 1000 Final
+Sara Armstrong,K1,1000,Women,293.63,Final,2,Juvenile,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,46 Event #47: K-1 W Juv 1000 Final
+Emily Winskill,K1,1000,Women,296.39,Final,3,Juvenile,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,46 Event #47: K-1 W Juv 1000 Final
+Kiran Basra,K1,1000,Women,296.71,Final,4,Juvenile,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,46 Event #47: K-1 W Juv 1000 Final
+Dayna Ortner,K1,1000,Women,302.39,Final,5,Juvenile,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,46 Event #47: K-1 W Juv 1000 Final
+Annie Truscott,K1,1000,Women,310.43,Final,6,Juvenile,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,46 Event #47: K-1 W Juv 1000 Final
+Zoe Nurmia,K1,1000,Women,375.06,Final,7,Juvenile,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,46 Event #47: K-1 W Juv 1000 Final
+Adrienne Remijan,K1,1000,Women,447.37,Final,8,Juvenile,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,46 Event #47: K-1 W Juv 1000 Final
+Rhodric Bond; Cedric Bond,K2,1000,Men,229.56,Final,1,Junior,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,47 Event #24: K-2 M Jr 1000 Final
+Brian Hammer; Ken Muir,K2,1000,Men,232.5,Final,2,Junior,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,47 Event #24: K-2 M Jr 1000 Final
+David Johnson; Nicholas Toering,K2,1000,Men,233.42,Final,3,Junior,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,47 Event #24: K-2 M Jr 1000 Final
+Nick Hanoian; Wesley Erikson,K2,1000,Men,235.39,Final,4,Junior,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,47 Event #24: K-2 M Jr 1000 Final
+Adam Poole; Keith Kelleway,K2,1000,Men,241.39,Final,5,Junior,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,47 Event #24: K-2 M Jr 1000 Final
+Nate Anderson; Forrest Manant,K2,1000,Men,260.81,Final,6,Junior,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,47 Event #24: K-2 M Jr 1000 Final
+Elliot Hoyt; Mica Leuba,K2,1000,Men,262.91,Final,7,Junior,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,47 Event #24: K-2 M Jr 1000 Final
+Tom Ernst; George White,K2,1000,Men,NA,Final,SCR,Junior,Houk 2006,6,17,2006,yes, ,Ted Houk Memorial Regatta,47 Event #24: K-2 M Jr 1000 Final
+Dion Maxwell,K1,500,Men,118.33,Heat,1,Senior,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,48 Event #73: K-1 M Sr 500 Heat 1
+Wes Hammer,K1,500,Men,119.75,Heat,2,Senior,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,48 Event #73: K-1 M Sr 500 Heat 1
+Donald Kiesling,K1,500,Men,121,Heat,3,Senior,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,48 Event #73: K-1 M Sr 500 Heat 1
+Aasim Saleh,K1,500,Men,126.11,Heat,4,Senior,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,48 Event #73: K-1 M Sr 500 Heat 1
+Jeff Raymond,K1,500,Men,127.53,Heat,5,Senior,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,48 Event #73: K-1 M Sr 500 Heat 1
+John George,K1,500,Men,144.17,Heat,6,Senior,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,48 Event #73: K-1 M Sr 500 Heat 1
+Robert Estelle,K1,500,Men,144.62,Heat,7,Senior,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,48 Event #73: K-1 M Sr 500 Heat 1
+Brock Rawstron,K1,500,Men,114.66,Heat,1,Senior,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,49 Event #73: K-1 M Sr 500 Heat 2
+Peter Turcan,K1,500,Men,124.78,Heat,2,Senior,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,49 Event #73: K-1 M Sr 500 Heat 2
+Sean Franklin,K1,500,Men,135.27,Heat,3,Senior,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,49 Event #73: K-1 M Sr 500 Heat 2
+Dan Bisalputra,K1,500,Men,161.93,Heat,4,Senior,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,49 Event #73: K-1 M Sr 500 Heat 2
+Steve Wort,K1,500,Men,NA,Heat,SCR,Senior,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,49 Event #73: K-1 M Sr 500 Heat 2
+Ludovit Tatos,K1,500,Men,NA,Heat,DNS,Senior,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,49 Event #73: K-1 M Sr 500 Heat 2
+Eric Moll,K1,500,Men,NA,Heat,DNS,Senior,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,49 Event #73: K-1 M Sr 500 Heat 2
+Katja Rademacher,K1,500,Women,112.65,Heat,1,Mas,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,50 Event #97: K-1 W Mas 500 Heat 1
+Kathy Nay,K1,500,Women,124.61,Heat,2,Mas,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,50 Event #97: K-1 W Mas 500 Heat 1
+Virginia Kuran,K1,500,Women,126.05,Heat,3,Mas,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,50 Event #97: K-1 W Mas 500 Heat 1
+Liz Erickson,K1,500,Women,140.21,Heat,4,Mas,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,50 Event #97: K-1 W Mas 500 Heat 1
+Holly Townes,K1,500,Women,159.72,Heat,5,Mas,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,50 Event #97: K-1 W Mas 500 Heat 1
+Helene Fowler,K1,500,Women,184.17,Heat,6,Mas,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,50 Event #97: K-1 W Mas 500 Heat 1
+Heide Eden,K1,500,Women,159.5,Heat,1,Mas,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,51 Event #97: K-1 W Mas 500 Heat 2
+Debbie Natelson,K1,500,Women,175.03,Heat,2,Mas,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,51 Event #97: K-1 W Mas 500 Heat 2
+Viktoria Stepitova,K1,500,Women,184.97,Heat,3,Mas,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,51 Event #97: K-1 W Mas 500 Heat 2
+Gerrie Hashisaki,K1,500,Women,208.98,Heat,4,Mas,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,51 Event #97: K-1 W Mas 500 Heat 2
+Traci Cole,K1,500,Women,NA,Heat,SCR,Mas,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,51 Event #97: K-1 W Mas 500 Heat 2
+Annette Ramos,K1,500,Women,NA,Heat,DNS,Mas,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,51 Event #97: K-1 W Mas 500 Heat 2
+Rayne Tarasiuk; Sarah Poole; Kristin Bauder; Maggie Henderson,K4,500,Women,111.61,Final,1,Junior,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,52 Event #59: K-4 W Jr 500 Final
+Katrina Batina; Annie Truscott; Emily Winskill; Kelsey Baker,K4,500,Women,120.91,Final,2,Junior,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,52 Event #59: K-4 W Jr 500 Final
+Kiran Basra; Sara Armstrong; Abbie Barber; Adele Klee,K4,500,Women,128.77,Final,3,Junior,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,52 Event #59: K-4 W Jr 500 Final
+Sara Mitchell; Dayna Ortner; Jessie Mitchell; Olivia Jensen,K4,500,Women,137.58,Final,4,Junior,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,52 Event #59: K-4 W Jr 500 Final
+Evelyn Brown; Mclane Harrington; Zoe Nurmia; Mia Overton,K4,500,Women,148.26,Final,5,Junior,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,52 Event #59: K-4 W Jr 500 Final
+Mattie Kuran,C1,500,Men,210.38,Final,1,Bantam,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,53 Event #61: C-1 M Ban 500 Final
+Darris Rhoads,C1,500,Men,259.65,Final,2,Bantam,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,53 Event #61: C-1 M Ban 500 Final
+Jeff Raymond,K1,500,Men,132.49,Heat,1,Mas,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,54 Event #83: K-1 M Mas 500 Heat 1
+Daryl Remmler,K1,500,Men,142.05,Heat,2,Mas,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,54 Event #83: K-1 M Mas 500 Heat 1
+Dan Bisalputra,K1,500,Men,154.91,Heat,3,Mas,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,54 Event #83: K-1 M Mas 500 Heat 1
+Grant Rawstron,K1,500,Men,166.46,Heat,4,Mas,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,54 Event #83: K-1 M Mas 500 Heat 1
+Dave Muir,K1,500,Men,178.64,Heat,5,Mas,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,54 Event #83: K-1 M Mas 500 Heat 1
+Hermelindo Soto,K1,500,Men,NA,Heat,DNS,Mas,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,54 Event #83: K-1 M Mas 500 Heat 1
+Michael Gregory,K1,500,Men,NA,Heat,DNS,Mas,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,54 Event #83: K-1 M Mas 500 Heat 1
+Guy Lawrence,K1,500,Men,134.05,Heat,1,Mas,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,55 Event #83: K-1 M Mas 500 Heat 2
+John George,K1,500,Men,138.24,Heat,2,Mas,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,55 Event #83: K-1 M Mas 500 Heat 2
+Dorin Popa,K1,500,Men,138.62,Heat,3,Mas,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,55 Event #83: K-1 M Mas 500 Heat 2
+Karol Osusky,K1,500,Men,144.31,Heat,4,Mas,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,55 Event #83: K-1 M Mas 500 Heat 2
+Peter Benning,K1,500,Men,163.89,Heat,5,Mas,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,55 Event #83: K-1 M Mas 500 Heat 2
+Jim Erickson,K1,500,Men,196.47,Heat,6,Mas,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,55 Event #83: K-1 M Mas 500 Heat 2
+John Flynn,K1,500,Men,204.42,Heat,7,Mas,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,55 Event #83: K-1 M Mas 500 Heat 2
+Molly Timmons,K1,500,Women,155.38,Heat,1,Bantam,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,56 Event #101: K-1 W Ban 500 Heat 1
+Jessie Mitchell,K1,500,Women,159.01,Heat,2,Bantam,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,56 Event #101: K-1 W Ban 500 Heat 1
+Mia Overton,K1,500,Women,168.37,Heat,3,Bantam,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,56 Event #101: K-1 W Ban 500 Heat 1
+Mclane Harrington,K1,500,Women,172.93,Heat,4,Bantam,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,56 Event #101: K-1 W Ban 500 Heat 1
+Emma Metzger,K1,500,Women,179.37,Heat,5,Bantam,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,56 Event #101: K-1 W Ban 500 Heat 1
+Evelyn Brown,K1,500,Women,181.71,Heat,6,Bantam,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,56 Event #101: K-1 W Ban 500 Heat 1
+Oriana Lavilla,K1,500,Women,183.43,Heat,7,Bantam,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,56 Event #101: K-1 W Ban 500 Heat 1
+Karin Nord,K1,500,Women,185.12,Heat,8,Bantam,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,56 Event #101: K-1 W Ban 500 Heat 1
+Olivia Jensen,K1,500,Women,200.5,Heat,9,Bantam,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,56 Event #101: K-1 W Ban 500 Heat 1
+Katy Hill,K1,500,Women,141.97,Heat,1,Bantam,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,57 Event #101: K-1 W Ban 500 Heat 2
+Abbie Barber,K1,500,Women,153.56,Heat,2,Bantam,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,57 Event #101: K-1 W Ban 500 Heat 2
+Kailey Hansen,K1,500,Women,157.95,Heat,3,Bantam,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,57 Event #101: K-1 W Ban 500 Heat 2
+Sara Mitchell,K1,500,Women,165.92,Heat,4,Bantam,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,57 Event #101: K-1 W Ban 500 Heat 2
+Bailey Nurmia,K1,500,Women,170.99,Heat,5,Bantam,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,57 Event #101: K-1 W Ban 500 Heat 2
+Adrienne Remijan,K1,500,Women,190.21,Heat,6,Bantam,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,57 Event #101: K-1 W Ban 500 Heat 2
+Sarah Corsa,K1,500,Women,194.16,Heat,7,Bantam,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,57 Event #101: K-1 W Ban 500 Heat 2
+Hannah Harris,K1,500,Women,204.07,Heat,8,Bantam,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,57 Event #101: K-1 W Ban 500 Heat 2
+Daphne Austin,K1,500,Women,215.81,Heat,9,Bantam,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,57 Event #101: K-1 W Ban 500 Heat 2
+Brian Hammer; Ken Muir,K2,500,Men,113.86,Final,1,Junior,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,58 Event #108: K-2 M Jr 500 Final
+Adam Poole; Keith Kelleway,K2,500,Men,115.51,Final,2,Junior,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,58 Event #108: K-2 M Jr 500 Final
+Brian Stopoulos; Wesley Erikson,K2,500,Men,115.83,Final,3,Junior,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,58 Event #108: K-2 M Jr 500 Final
+David Johnson; Nicholas Toering,K2,500,Men,116.69,Final,4,Junior,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,58 Event #108: K-2 M Jr 500 Final
+Elliot Hoyt; Jordan Trass,K2,500,Men,125.05,Final,5,Junior,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,58 Event #108: K-2 M Jr 500 Final
+Nate Anderson; Forrest Manant,K2,500,Men,133.48,Final,6,Junior,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,58 Event #108: K-2 M Jr 500 Final
+Sky Leuba; Mica Leuba,K2,500,Men,139,Final,7,Junior,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,58 Event #108: K-2 M Jr 500 Final
+Brian Stopoulos; Kyle Bales; Zac Johnson; Darris Rhoads,K4,500,Men,134.47,Final,1,Bantam,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,59 Event #74: K-4 M Ban 500 Final
+Tom Ernst; George White; Jeff Cayton; Mitchell Overton,K4,500,Men,148.8,Final,2,Bantam,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,59 Event #74: K-4 M Ban 500 Final
+Colton Meunch-Parsons; Thomas Sherman; Brian Malfesi; Mattie Kuran,K4,500,Men,149.84,Final,3,Bantam,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,59 Event #74: K-4 M Ban 500 Final
+Alden Keefe Sampson; Sam Wyckoff,C2,500,Men,132.5,Final,1,Senior,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,60.1 Event #90: C-2 M Sr 500 Final
+Chris Koressel; Noah Skartvedt,C2,500,Men,140.8,Final,2,Senior,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,60.1 Event #90: C-2 M Sr 500 Final
+Yevgeniy Mikhaylov; Tyler Martin,C2,500,Men,152.75,Final,3,Senior,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,60.1 Event #90: C-2 M Sr 500 Final
+Amina Saleh; Megan Palmer,C2,500,Women,159.57,Final,1,Senior,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,60.2 Event #91: C-2 W Sr 500 Final
+Maggie Henderson,K1,500,Women,129.64,Final,1,Junior,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,61 Event #98: K-1 W Jr 500 Final
+Kristin Bauder,K1,500,Women,131.83,Final,2,Junior,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,61 Event #98: K-1 W Jr 500 Final
+Katrina Batina,K1,500,Women,136.61,Final,3,Junior,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,61 Event #98: K-1 W Jr 500 Final
+Kelsey Baker,K1,500,Women,143.81,Final,4,Junior,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,61 Event #98: K-1 W Jr 500 Final
+Sarah Poole,K1,500,Women,147.58,Final,5,Junior,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,61 Event #98: K-1 W Jr 500 Final
+Adele Klee,K1,500,Women,156.03,Final,6,Junior,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,61 Event #98: K-1 W Jr 500 Final
+Zoe Nurmia,K1,500,Women,176.64,Final,7,Junior,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,61 Event #98: K-1 W Jr 500 Final
+Jeff Raymond,K1,500,Men,131.69,Semis,1,Senior,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,62 Event #73: K-1 M Sr 500 Semifinal
+Robert Estelle,K1,500,Men,136.13,Semis,2,Senior,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,62 Event #73: K-1 M Sr 500 Semifinal
+John George,K1,500,Men,144.31,Semis,3,Senior,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,62 Event #73: K-1 M Sr 500 Semifinal
+Dan Bisalputra,K1,500,Men,153.76,Semis,4,Senior,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,62 Event #73: K-1 M Sr 500 Semifinal
+Aasim Saleh,K1,500,Men,NA,Semis,NA,Senior,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,62 Event #73: K-1 M Sr 500 Semifinal
+Karol Osusky,K1,500,Men,144.95,Semis,1,Mas,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,63 Event #83: K-1 M Mas 500 Semifinal
+Peter Benning,K1,500,Men,160.55,Semis,2,Mas,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,63 Event #83: K-1 M Mas 500 Semifinal
+Grant Rawstron,K1,500,Men,162.14,Semis,3,Mas,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,63 Event #83: K-1 M Mas 500 Semifinal
+Jim Erickson,K1,500,Men,173.63,Semis,4,Mas,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,63 Event #83: K-1 M Mas 500 Semifinal
+Dave Muir,K1,500,Men,181.67,Semis,5,Mas,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,63 Event #83: K-1 M Mas 500 Semifinal
+John Flynn,K1,500,Men,190.09,Semis,6,Mas,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,63 Event #83: K-1 M Mas 500 Semifinal
+Liz Erickson,K1,500,Women,171.18,Semis,1,Mas,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,64 Event #97: K-1 W Mas 500 Semifinal
+Holly Townes,K1,500,Women,182.85,Semis,2,Mas,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,64 Event #97: K-1 W Mas 500 Semifinal
+Gerrie Hashisaki,K1,500,Women,205.3,Semis,3,Mas,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,64 Event #97: K-1 W Mas 500 Semifinal
+Helene Fowler,K1,500,Women,210.75,Semis,4,Mas,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,64 Event #97: K-1 W Mas 500 Semifinal
+Noah Skartvedt,C1,500,Men,143.25,Final,1,Juvenile,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,65 Event #87: C-1 M Juv 500 Final
+Alden Keefe Sampson,C1,500,Men,143.75,Final,2,Juvenile,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,65 Event #87: C-1 M Juv 500 Final
+Sam Wyckoff,C1,500,Men,155.37,Final,3,Juvenile,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,65 Event #87: C-1 M Juv 500 Final
+Yevgeniy Mikhaylov,C1,500,Men,166.65,Final,4,Juvenile,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,65 Event #87: C-1 M Juv 500 Final
+Kyle Bales; Mattie Kuran,C2,500,Men,209.53,Final,1,Bantam,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,66 Event #81: C-2 M Ban 500 Final
+Mitchell Overton; Darris Rhoads,C2,500,Men,285.55,Final,2,Bantam,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,66 Event #81: C-2 M Ban 500 Final
+Sara Mitchell,K1,500,Women,164.86,Semis,1,Bantam,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,67 Event #101: K-1 W Ban 500 Semifinal
+Mclane Harrington,K1,500,Women,171.51,Semis,2,Bantam,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,67 Event #101: K-1 W Ban 500 Semifinal
+Bailey Nurmia,K1,500,Women,172.88,Semis,3,Bantam,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,67 Event #101: K-1 W Ban 500 Semifinal
+Emma Metzger,K1,500,Women,175.05,Semis,4,Bantam,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,67 Event #101: K-1 W Ban 500 Semifinal
+Evelyn Brown,K1,500,Women,177.26,Semis,5,Bantam,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,67 Event #101: K-1 W Ban 500 Semifinal
+Karin Nord,K1,500,Women,180.5,Semis,6,Bantam,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,67 Event #101: K-1 W Ban 500 Semifinal
+Oriana Lavilla,K1,500,Women,183.96,Semis,7,Bantam,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,67 Event #101: K-1 W Ban 500 Semifinal
+Adrienne Remijan,K1,500,Women,189.7,Semis,8,Bantam,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,67 Event #101: K-1 W Ban 500 Semifinal
+Sarah Corsa,K1,500,Women,191.41,Semis,9,Bantam,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,67 Event #101: K-1 W Ban 500 Semifinal
+Katrina Batina; Annie Truscott; Emily Winskill; Kelsey Baker,K4,500,Women,118.54,Final,1,Senior,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,68 Event #77: K-4 W Sr 500 Final
+Heide Eden; Katja Rademacher; Virginia Kuran; Kathy Nay,K4,500,Women,123.81,Final,2,Senior,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,68 Event #77: K-4 W Sr 500 Final
+Jen Zimmerman; Adele Klee; Amina Saleh; Megan Palmer,K4,500,Women,128.27,Final,3,Senior,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,68 Event #77: K-4 W Sr 500 Final
+Viktoria Stepitova; Traci Cole; Monica Varley; Liz Erickson,K4,500,Women,134.16,Final,4,Senior,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,68 Event #77: K-4 W Sr 500 Final
+Noah Skartvedt,C1,500,Men,144.55,Final,1,Junior,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,69 Event #99: C-1 M Jr 500 Final
+Chris Koressel,C1,500,Men,149.47,Final,2,Junior,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,69 Event #99: C-1 M Jr 500 Final
+Sam Wyckoff,C1,500,Men,152.48,Final,3,Junior,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,69 Event #99: C-1 M Jr 500 Final
+Yevgeniy Mikhaylov,C1,500,Men,169.25,Final,4,Junior,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,69 Event #99: C-1 M Jr 500 Final
+Kristin Bauder; Maggie Henderson,K2,500,Women,117.74,Final,1,Junior,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,71 Event #111: K-2 W Jr 500 Final
+Rayne Tarasiuk; Dayna Ortner,K2,500,Women,122.18,Final,2,Junior,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,71 Event #111: K-2 W Jr 500 Final
+Kiran Basra; Sara Armstrong,K2,500,Women,127.37,Final,3,Junior,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,71 Event #111: K-2 W Jr 500 Final
+Katrina Batina; Kelsey Baker,K2,500,Women,128.66,Final,4,Junior,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,71 Event #111: K-2 W Jr 500 Final
+Annie Truscott; Emily Winskill,K2,500,Women,137.44,Final,5,Junior,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,71 Event #111: K-2 W Jr 500 Final
+Sarah Poole; Jessie Mitchell,K2,500,Women,143.28,Final,6,Junior,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,71 Event #111: K-2 W Jr 500 Final
+Zoe Nurmia; Adele Klee,K2,500,Women,153.52,Final,7,Junior,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,71 Event #111: K-2 W Jr 500 Final
+Wes Hammer,K1,500,Men,109.25,Final,1,Senior,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,72 Event #73: K-1 M Sr 500 Final
+Dion Maxwell,K1,500,Men,111.31,Final,2,Senior,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,72 Event #73: K-1 M Sr 500 Final
+Brock Rawstron,K1,500,Men,112.79,Final,3,Senior,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,72 Event #73: K-1 M Sr 500 Final
+Sean Franklin,K1,500,Men,118.83,Final,4,Senior,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,72 Event #73: K-1 M Sr 500 Final
+Peter Turcan,K1,500,Men,120.72,Final,5,Senior,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,72 Event #73: K-1 M Sr 500 Final
+Donald Kiesling,K1,500,Men,121.16,Final,6,Senior,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,72 Event #73: K-1 M Sr 500 Final
+Jeff Raymond,K1,500,Men,130.98,Final,7,Senior,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,72 Event #73: K-1 M Sr 500 Final
+John George,K1,500,Men,148.91,Final,8,Senior,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,72 Event #73: K-1 M Sr 500 Final
+Robert Estelle,K1,500,Men,NA,Final,DNF,Senior,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,72 Event #73: K-1 M Sr 500 Final
+Abbie Barber; Kailey Hansen; Molly Timmons; Katy Hill,K4,500,Women,136.17,Final,1,Bantam,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,73 Event #57: K-4 W Ban 500 Final
+Sara Mitchell; Jessie Mitchell; Olivia Jensen; Hannah Nord,K4,500,Women,145.92,Final,2,Bantam,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,73 Event #57: K-4 W Ban 500 Final
+Evelyn Brown; Mclane Harrington; Bailey Nurmia; Mia Overton,K4,500,Women,148.5,Final,3,Bantam,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,73 Event #57: K-4 W Ban 500 Final
+Adrienne Remijan; Oriana Lavilla; Emma Metzger; Karin Nord,K4,500,Women,151.57,Final,4,Bantam,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,73 Event #57: K-4 W Ban 500 Final
+Daphne Austin; Rita McCall; Hannah Harris; Sarah Corsa,K4,500,Women,170.68,Final,5,Bantam,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,73 Event #57: K-4 W Ban 500 Final
+Chris Koressel,C1,500,Men,148.39,Final,1,Senior,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,74.1 Event #79: C-1 M Sr 500 Final
+Aasim Saleh,C1,500,Men,148.83,Final,2,Senior,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,74.1 Event #79: C-1 M Sr 500 Final
+Tyler Martin,C1,500,Men,152.81,Final,3,Senior,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,74.1 Event #79: C-1 M Sr 500 Final
+Amina Saleh,C1,500,Women,170.34,Final,1,Senior,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,74.2 Event #80: C-1 W Sr 500 Final
+Megan Palmer,C1,500,Women,176.14,Final,2,Senior,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,74.2 Event #80: C-1 W Sr 500 Final
+Virginia Kuran; Kathy Nay,K2,500,Women,137.34,Final,1,Mas,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,75 Event #72: K-2 W Mas 500 Final
+Heide Eden; Katja Rademacher,K2,500,Women,138.29,Final,2,Mas,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,75 Event #72: K-2 W Mas 500 Final
+Viktoria Stepitova; Liz Erickson,K2,500,Women,174.24,Final,3,Mas,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,75 Event #72: K-2 W Mas 500 Final
+Helene Fowler; Gerrie Hashisaki,K2,500,Women,186.66,Final,4,Mas,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,75 Event #72: K-2 W Mas 500 Final
+Sara Armstrong,K1,500,Women,132.42,Final,1,Juvenile,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,76 Event #84: K-1 W Juv 500 Final
+Rayne Tarasiuk,K1,500,Women,134.42,Final,2,Juvenile,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,76 Event #84: K-1 W Juv 500 Final
+Katy Hill,K1,500,Women,136.35,Final,3,Juvenile,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,76 Event #84: K-1 W Juv 500 Final
+Annie Truscott,K1,500,Women,138.02,Final,4,Juvenile,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,76 Event #84: K-1 W Juv 500 Final
+Emily Winskill,K1,500,Women,138.88,Final,5,Juvenile,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,76 Event #84: K-1 W Juv 500 Final
+Kiran Basra,K1,500,Women,139.96,Final,6,Juvenile,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,76 Event #84: K-1 W Juv 500 Final
+Dayna Ortner,K1,500,Women,175.29,Final,7,Juvenile,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,76 Event #84: K-1 W Juv 500 Final
+Zoe Nurmia,K1,500,Women,176.85,Final,8,Juvenile,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,76 Event #84: K-1 W Juv 500 Final
+Brock Rawstron; Sean Franklin; Wes Hammer; Dion Maxwell,K4,500,Men,100.96,Final,1,Senior,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,77 Event #85: K-4 M Sr 500 Final
+Guy Lawrence; Donald Kiesling; Peter Turcan; Wesley Erikson,K4,500,Men,105.54,Final,2,Senior,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,77 Event #85: K-4 M Sr 500 Final
+Grant Rawstron; Dave Muir; Steve Wort; Michael Gregory,K4,500,Men,163.9,Final,3,Senior,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,77 Event #85: K-4 M Sr 500 Final
+Tyler Martin; Karol Osusky; Dorin Popa; Hermelindo Soto; Robert Estelle,K4,500,Men,NA,Final,SCR,Senior,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,77 Event #85: K-4 M Sr 500 Final
+John George; Dan Bisalputra; Jeff Raymond; Daryl Remmler,K4,500,Men,NA,Final,SCR,Senior,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,77 Event #85: K-4 M Sr 500 Final
+Ken Muir,K1,500,Men,118.31,Final,1,Juvenile,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,78 Event #78: K-1 M Juv 500 Final
+Nicholas Toering,K1,500,Men,119.91,Final,2,Juvenile,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,78 Event #78: K-1 M Juv 500 Final
+Keith Kelleway,K1,500,Men,123.37,Final,3,Juvenile,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,78 Event #78: K-1 M Juv 500 Final
+Brian Stopoulos,K1,500,Men,126.2,Final,4,Juvenile,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,78 Event #78: K-1 M Juv 500 Final
+David Johnson,K1,500,Men,127.02,Final,5,Juvenile,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,78 Event #78: K-1 M Juv 500 Final
+Elliot Hoyt,K1,500,Men,128.62,Final,6,Juvenile,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,78 Event #78: K-1 M Juv 500 Final
+Nate Anderson,K1,500,Men,133.08,Final,7,Juvenile,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,78 Event #78: K-1 M Juv 500 Final
+Forrest Manant,K1,500,Men,134.02,Final,8,Juvenile,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,78 Event #78: K-1 M Juv 500 Final
+Mica Leuba,K1,500,Men,136.7,Final,9,Juvenile,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,78 Event #78: K-1 M Juv 500 Final
+Adam Poole,K1,500,Men,139.45,Final,10,Juvenile,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,78 Event #78: K-1 M Juv 500 Final
+Jen Zimmerman; Monica Varley,K2,500,Women,134.19,Final,1,Senior,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,79 Event #89: K-2 W Sr 500 Final
+Virginia Kuran; Kathy Nay,K2,500,Women,138.19,Final,2,Senior,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,79 Event #89: K-2 W Sr 500 Final
+Heide Eden; Katja Rademacher,K2,500,Women,140.63,Final,3,Senior,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,79 Event #89: K-2 W Sr 500 Final
+Lan Luan; Viktoria Stepitova; Adele Klee,K2,500,Women,200.89,Final,4,Senior,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,79 Event #89: K-2 W Sr 500 Final
+Amina Saleh; Megan Palmer,K2,500,Women,NA,Final,DNS,Senior,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,79 Event #89: K-2 W Sr 500 Final
+Katy Hill,K1,500,Women,138.11,Final,1,Bantam,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,80 Event #101: K-1 W Ban 500 Final
+Abbie Barber,K1,500,Women,143.09,Final,2,Bantam,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,80 Event #101: K-1 W Ban 500 Final
+Molly Timmons,K1,500,Women,151.16,Final,3,Bantam,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,80 Event #101: K-1 W Ban 500 Final
+Jessie Mitchell,K1,500,Women,154.66,Final,4,Bantam,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,80 Event #101: K-1 W Ban 500 Final
+Kailey Hansen,K1,500,Women,155.33,Final,5,Bantam,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,80 Event #101: K-1 W Ban 500 Final
+Mia Overton,K1,500,Women,169.09,Final,6,Bantam,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,80 Event #101: K-1 W Ban 500 Final
+Bailey Nurmia,K1,500,Women,169.49,Final,7,Bantam,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,80 Event #101: K-1 W Ban 500 Final
+Mclane Harrington,K1,500,Women,173.36,Final,8,Bantam,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,80 Event #101: K-1 W Ban 500 Final
+Sara Mitchell,K1,500,Women,177.87,Final,9,Bantam,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,80 Event #101: K-1 W Ban 500 Final
+Wes Hammer; Dion Maxwell,K2,500,Men,105.17,Final,1,Senior,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,81 Event #60: K-2 M Sr 500 Final
+Brock Rawstron; Sean Franklin,K2,500,Men,108.29,Final,2,Senior,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,81 Event #60: K-2 M Sr 500 Final
+Donald Kiesling; Peter Turcan,K2,500,Men,116.38,Final,3,Senior,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,81 Event #60: K-2 M Sr 500 Final
+Wesley Erikson; Guy Lawrence,K2,500,Men,125.06,Final,4,Senior,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,81 Event #60: K-2 M Sr 500 Final
+Chris Koressel; Alden Keefe Sampson,C2,500,Men,135.61,Final,1,Junior,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,82 Event #65: C-2 M Jr 500 Final
+Yevgeniy Mikhaylov; Noah Skartvedt,C2,500,Men,156.93,Final,2,Junior,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,82 Event #65: C-2 M Jr 500 Final
+Brian Hammer; Adam Poole; Ken Muir; Keith Kelleway,K4,500,Men,108.32,Final,1,Junior,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,83 Event #102: K-4 M Jr 500 Final
+George White; Wesley Erikson; David Johnson; Nicholas Toering,K4,500,Men,114.09,Final,2,Junior,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,83 Event #102: K-4 M Jr 500 Final
+Elliot Hoyt; Jordan Trass; Sky Leuba; Mica Leuba; Colton Meunch-Parsons,K4,500,Men,123.5,Final,3,Junior,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,83 Event #102: K-4 M Jr 500 Final
+Nate Anderson; Forrest Manant; Brian Malfesi; Tom Ernst,K4,500,Men,129.5,Final,4,Junior,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,83 Event #102: K-4 M Jr 500 Final
+Brian Stopoulos; Kyle Bales,K2,500,Men,129.74,Final,1,Bantam,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,84 Event #105: K-2 M Ban 500 Final
+Jordan Trass; Sky Leuba,K2,500,Men,130.55,Final,2,Bantam,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,84 Event #105: K-2 M Ban 500 Final
+Brian Malfesi; Mattie Kuran,K2,500,Men,150.48,Final,3,Bantam,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,84 Event #105: K-2 M Ban 500 Final
+Zac Johnson; Darris Rhoads,K2,500,Men,156.82,Final,4,Bantam,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,84 Event #105: K-2 M Ban 500 Final
+Tom Ernst; George White,K2,500,Men,161.79,Final,5,Bantam,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,84 Event #105: K-2 M Ban 500 Final
+Colton Meunch-Parsons; Thomas Sherman,K2,500,Men,178.83,Final,6,Bantam,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,84 Event #105: K-2 M Ban 500 Final
+Jeff Cayton; Mitchell Overton,K2,500,Men,229.77,Final,7,Bantam,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,84 Event #105: K-2 M Ban 500 Final
+Jeff Raymond,K1,500,Men,128.84,Final,1,Mas,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,85 Event #83: K-1 M Mas 500 Final
+Guy Lawrence,K1,500,Men,129.88,Final,2,Mas,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,85 Event #83: K-1 M Mas 500 Final
+Dorin Popa,K1,500,Men,133.08,Final,3,Mas,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,85 Event #83: K-1 M Mas 500 Final
+Daryl Remmler,K1,500,Men,134.71,Final,4,Mas,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,85 Event #83: K-1 M Mas 500 Final
+John George,K1,500,Men,140.06,Final,5,Mas,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,85 Event #83: K-1 M Mas 500 Final
+Karol Osusky,K1,500,Men,145.09,Final,6,Mas,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,85 Event #83: K-1 M Mas 500 Final
+Dan Bisalputra,K1,500,Men,156.39,Final,7,Mas,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,85 Event #83: K-1 M Mas 500 Final
+Peter Benning,K1,500,Men,164.85,Final,8,Mas,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,85 Event #83: K-1 M Mas 500 Final
+Grant Rawstron,K1,500,Men,165.17,Final,9,Mas,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,85 Event #83: K-1 M Mas 500 Final
+Katrina Batina,K1,500,Women,132.81,Final,1,Senior,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,86 Event #64: K-1 W Sr 500 Final
+Monica Varley,K1,500,Women,139.38,Final,2,Senior,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,86 Event #64: K-1 W Sr 500 Final
+Jen Zimmerman,K1,500,Women,144.56,Final,3,Senior,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,86 Event #64: K-1 W Sr 500 Final
+Katja Rademacher,K1,500,Women,153.26,Final,4,Senior,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,86 Event #64: K-1 W Sr 500 Final
+Virginia Kuran,K1,500,Women,163.31,Final,5,Senior,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,86 Event #64: K-1 W Sr 500 Final
+Kathy Nay,K1,500,Women,176.73,Final,6,Senior,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,86 Event #64: K-1 W Sr 500 Final
+Traci Cole,K1,500,Women,NA,Final,SCR,Senior,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,86 Event #64: K-1 W Sr 500 Final
+Heide Eden,K1,500,Women,NA,Final,SCR,Senior,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,86 Event #64: K-1 W Sr 500 Final
+Lan Luan,K1,500,Women,NA,Final,DNS,Senior,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,86 Event #64: K-1 W Sr 500 Final
+Abbie Barber; Katy Hill,K2,500,Women,142.78,Final,1,Bantam,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,87 Event #92: K-2 W Ban 500 Final
+Kailey Hansen; Molly Timmons,K2,500,Women,153.82,Final,2,Bantam,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,87 Event #92: K-2 W Ban 500 Final
+Sara Mitchell; Olivia Jensen,K2,500,Women,159.11,Final,3,Bantam,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,87 Event #92: K-2 W Ban 500 Final
+Mclane Harrington; Mia Overton,K2,500,Women,160.67,Final,4,Bantam,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,87 Event #92: K-2 W Ban 500 Final
+Evelyn Brown; Bailey Nurmia,K2,500,Women,166.1,Final,5,Bantam,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,87 Event #92: K-2 W Ban 500 Final
+Emma Metzger; Karin Nord,K2,500,Women,175.19,Final,6,Bantam,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,87 Event #92: K-2 W Ban 500 Final
+Adrienne Remijan; Oriana Lavilla,K2,500,Women,180.12,Final,7,Bantam,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,87 Event #92: K-2 W Ban 500 Final
+Abby Ernst; Lydia Keefe Sampson,K2,500,Women,204.53,Final,8,Bantam,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,87 Event #92: K-2 W Ban 500 Final
+Daphne Austin; Hannah Harris,K2,500,Women,NA,Final,DNS,Bantam,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,87 Event #92: K-2 W Ban 500 Final
+Sarah Corsa; Hannah Nord,K2,500,Women,NA,Final,DNS,Bantam,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,87 Event #92: K-2 W Ban 500 Final
+Nicholas Toering,K1,500,Men,124.28,Final,1,Junior,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,88 Event #86: K-1 M Jr 500 Final
+David Johnson,K1,500,Men,126.19,Final,2,Junior,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,88 Event #86: K-1 M Jr 500 Final
+Wesley Erikson,K1,500,Men,130.32,Final,3,Junior,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,88 Event #86: K-1 M Jr 500 Final
+Brian Hammer,K1,500,Men,135.62,Final,4,Junior,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,88 Event #86: K-1 M Jr 500 Final
+Donald Kiesling; Dorin Popa,K2,500,Men,122.14,Final,1,Mas,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,89 Event #95: K-2 M Mas 500 Final
+Peter Turcan; Monica Varley,K2,500,Men,124.63,Final,2,Mas,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,89 Event #95: K-2 M Mas 500 Final
+John George; Daryl Remmler,K2,500,Men,137.38,Final,3,Mas,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,89 Event #95: K-2 M Mas 500 Final
+Dan Bisalputra; Jeff Raymond,K2,500,Men,147.72,Final,4,Mas,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,89 Event #95: K-2 M Mas 500 Final
+Jim Erickson; John Flynn,K2,500,Men,203.39,Final,5,Mas,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,89 Event #95: K-2 M Mas 500 Final
+Grant Rawstron; Guy Lawrence,K2,500,Men,NA,Final,DNS,Mas,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,89 Event #95: K-2 M Mas 500 Final
+Dave Muir; Steve Wort,K2,500,Men,NA,Final,DNS,Mas,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,89 Event #95: K-2 M Mas 500 Final
+Karol Osusky; Hermelindo Soto,K2,500,Men,NA,Final,DNS,Mas,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,89 Event #95: K-2 M Mas 500 Final
+Brian Stopoulos,K1,500,Men,140.04,Final,1,Bantam,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,91 Event #58: K-1 M Ban 500 Final
+Jordan Trass,K1,500,Men,142.44,Final,2,Bantam,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,91 Event #58: K-1 M Ban 500 Final
+Kyle Bales,K1,500,Men,158.02,Final,3,Bantam,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,91 Event #58: K-1 M Ban 500 Final
+Mattie Kuran,K1,500,Men,204.93,Final,4,Bantam,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,91 Event #58: K-1 M Ban 500 Final
+Thomas Sherman,K1,500,Men,207.27,Final,5,Bantam,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,91 Event #58: K-1 M Ban 500 Final
+George White,K1,500,Men,NA,Final,DNF,Bantam,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,91 Event #58: K-1 M Ban 500 Final
+Colton Meunch-Parsons,K1,500,Men,NA,Final,SCR,Bantam,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,91 Event #58: K-1 M Ban 500 Final
+Tom Ernst,K1,500,Men,NA,Final,SCR,Bantam,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,91 Event #58: K-1 M Ban 500 Final
+Jeff Cayton,K1,500,Men,NA,Final,DNS,Bantam,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,91 Event #58: K-1 M Ban 500 Final
+Zac Johnson,K1,500,Men,NA,Final,DNS,Bantam,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,91 Event #58: K-1 M Ban 500 Final
+Brian Malfesi,K1,500,Men,NA,Final,DNS,Bantam,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,91 Event #58: K-1 M Ban 500 Final
+Virginia Kuran,K1,500,Women,164.97,Final,1,Mas,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,92 Event #97: K-1 W Mas 500 Final
+Kathy Nay,K1,500,Women,171.84,Final,2,Mas,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,92 Event #97: K-1 W Mas 500 Final
+Holly Townes,K1,500,Women,179.2,Final,3,Mas,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,92 Event #97: K-1 W Mas 500 Final
+Liz Erickson,K1,500,Women,180.57,Final,4,Mas,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,92 Event #97: K-1 W Mas 500 Final
+Debbie Natelson,K1,500,Women,191.05,Final,5,Mas,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,92 Event #97: K-1 W Mas 500 Final
+Viktoria Stepitova,K1,500,Women,NA,Final,DNS,Mas,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,92 Event #97: K-1 W Mas 500 Final
+Heide Eden,K1,500,Women,NA,Final,DNS,Mas,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,92 Event #97: K-1 W Mas 500 Final
+Katja Rademacher,K1,500,Women,NA,Final,DNS,Mas,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,92 Event #97: K-1 W Mas 500 Final
+Gerrie Hashisaki,K1,500,Women,NA,Final,DNS,Mas,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,92 Event #97: K-1 W Mas 500 Final
+Dion Maxwell,K1,200,Men,42.14,Heat,1,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,93 Event #117: K-1 M Open 200 Heat 1
+Brock Rawstron,K1,200,Men,43.15,Heat,2,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,93 Event #117: K-1 M Open 200 Heat 1
+Ken Muir,K1,200,Men,43.96,Heat,3,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,93 Event #117: K-1 M Open 200 Heat 1
+Daryl Remmler,K1,200,Men,48.3,Heat,4,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,93 Event #117: K-1 M Open 200 Heat 1
+Jordan Trass,K1,200,Men,51.6,Heat,5,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,93 Event #117: K-1 M Open 200 Heat 1
+Grant Rawstron,K1,200,Men,64.18,Heat,6,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,93 Event #117: K-1 M Open 200 Heat 1
+Jim Erickson,K1,200,Men,75.07,Heat,7,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,93 Event #117: K-1 M Open 200 Heat 1
+Dorin Popa,K1,200,Men,NA,Heat,SCR,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,93 Event #117: K-1 M Open 200 Heat 1
+Wesley Erikson,K1,200,Men,NA,Heat,DNS,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,93 Event #117: K-1 M Open 200 Heat 1
+David Fort,K1,200,Men,NA,Heat,DNS,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,93 Event #117: K-1 M Open 200 Heat 1
+Nicholas Toering,K1,200,Men,48.2,Heat,1,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,94 Event #117: K-1 M Open 200 Heat 2
+Keith Kelleway,K1,200,Men,49.64,Heat,2,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,94 Event #117: K-1 M Open 200 Heat 2
+Guy Lawrence,K1,200,Men,50.13,Heat,3,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,94 Event #117: K-1 M Open 200 Heat 2
+Robert Estelle,K1,200,Men,55.17,Heat,4,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,94 Event #117: K-1 M Open 200 Heat 2
+Adam Poole,K1,200,Men,57.53,Heat,5,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,94 Event #117: K-1 M Open 200 Heat 2
+John Flynn,K1,200,Men,106.95,Heat,6,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,94 Event #117: K-1 M Open 200 Heat 2
+Michael Gregory,K1,200,Men,NA,Heat,DNS,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,94 Event #117: K-1 M Open 200 Heat 2
+Eric Moll,K1,200,Men,NA,Heat,DNS,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,94 Event #117: K-1 M Open 200 Heat 2
+Mattie Kuran,K1,200,Men,NA,Heat,SCR,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,94 Event #117: K-1 M Open 200 Heat 2
+Steve Wort,K1,200,Men,NA,Heat,DNS,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,94 Event #117: K-1 M Open 200 Heat 2
+Wes Hammer,K1,200,Men,41.67,Heat,1,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,95 Event #117: K-1 M Open 200 Heat 3
+Aasim Saleh,K1,200,Men,42.7,Heat,2,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,95 Event #117: K-1 M Open 200 Heat 3
+Sean Franklin,K1,200,Men,43.94,Heat,3,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,95 Event #117: K-1 M Open 200 Heat 3
+David Johnson,K1,200,Men,44.43,Heat,4,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,95 Event #117: K-1 M Open 200 Heat 3
+Peter Turcan,K1,200,Men,44.86,Heat,5,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,95 Event #117: K-1 M Open 200 Heat 3
+Brian Hammer,K1,200,Men,46.78,Heat,6,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,95 Event #117: K-1 M Open 200 Heat 3
+Jeff Raymond,K1,200,Men,49.96,Heat,7,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,95 Event #117: K-1 M Open 200 Heat 3
+Peter Benning,K1,200,Men,58.3,Heat,8,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,95 Event #117: K-1 M Open 200 Heat 3
+Brian Malfesi,K1,200,Men,60.12,Heat,9,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,95 Event #117: K-1 M Open 200 Heat 3
+Karol Osusky,K1,200,Men,NA,Heat,DNS,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,95 Event #117: K-1 M Open 200 Heat 3
+Elliot Hoyt,K1,200,Men,49.58,Heat,1,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,96 Event #117: K-1 M Open 200 Heat 4
+Mica Leuba,K1,200,Men,58.16,Heat,2,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,96 Event #117: K-1 M Open 200 Heat 4
+John George,K1,200,Men,59.58,Heat,3,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,96 Event #117: K-1 M Open 200 Heat 4
+Dan Bisalputra,K1,200,Men,63.65,Heat,4,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,96 Event #117: K-1 M Open 200 Heat 4
+Dave Muir,K1,200,Men,72.45,Heat,5,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,96 Event #117: K-1 M Open 200 Heat 4
+Thomas Sherman,K1,200,Men,73.31,Heat,6,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,96 Event #117: K-1 M Open 200 Heat 4
+Hermelindo Soto,K1,200,Men,NA,Heat,DNS,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,96 Event #117: K-1 M Open 200 Heat 4
+Donald Kiesling,K1,200,Men,NA,Heat,SCR,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,96 Event #117: K-1 M Open 200 Heat 4
+Tom Ernst,K1,200,Men,NA,Heat,SCR,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,96 Event #117: K-1 M Open 200 Heat 4
+Alden Keefe Sampson,C1,200,Men,53.36,Final,1,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,97 Event #118: C-1 M Open 200 Final
+Noah Skartvedt,C1,200,Men,53.88,Final,2,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,97 Event #118: C-1 M Open 200 Final
+Chris Koressel,C1,200,Men,58.48,Final,3,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,97 Event #118: C-1 M Open 200 Final
+Sam Wyckoff,C1,200,Men,60.42,Final,4,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,97 Event #118: C-1 M Open 200 Final
+Tyler Martin,C1,200,Men,60.76,Final,5,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,97 Event #118: C-1 M Open 200 Final
+Yevgeniy Mikhaylov,C1,200,Men,63.29,Final,6,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,97 Event #118: C-1 M Open 200 Final
+Darris Rhoads,C1,200,Men,NA,Final,DNS,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,97 Event #118: C-1 M Open 200 Final
+Jordan Malloch,C1,200,Men,NA,Final,DNS,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,97 Event #118: C-1 M Open 200 Final
+Amina Saleh,C1,200,Women,64.96,Final,1,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,98 Event #119: C-1 W Open 200 Final
+Megan Palmer,C1,200,Women,70.91,Final,2,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,98 Event #119: C-1 W Open 200 Final
+Katja Rademacher,K1,200,Women,57.74,Heat,1,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,101 Event #120: K-1 W Open 200 Heat 1
+Kiran Basra,K1,200,Women,58.13,Heat,2,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,101 Event #120: K-1 W Open 200 Heat 1
+Jen Zimmerman,K1,200,Women,62.28,Heat,3,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,101 Event #120: K-1 W Open 200 Heat 1
+Sarah Poole,K1,200,Women,68.56,Heat,4,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,101 Event #120: K-1 W Open 200 Heat 1
+Kathy Nay,K1,200,Women,73.65,Heat,5,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,101 Event #120: K-1 W Open 200 Heat 1
+Mclane Harrington,K1,200,Women,75.44,Heat,6,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,101 Event #120: K-1 W Open 200 Heat 1
+Olivia Jensen,K1,200,Women,78.47,Heat,7,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,101 Event #120: K-1 W Open 200 Heat 1
+Lan Luan,K1,200,Women,107.85,Heat,8,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,101 Event #120: K-1 W Open 200 Heat 1
+Kelsey Baker,K1,200,Women,NA,Heat,SCR,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,101 Event #120: K-1 W Open 200 Heat 1
+Emily Winskill,K1,200,Women,NA,Heat,SCR,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,101 Event #120: K-1 W Open 200 Heat 1
+Katrina Batina,K1,200,Women,52,Heat,1,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,102 Event #120: K-1 W Open 200 Heat 2
+Dayna Ortner,K1,200,Women,54.16,Heat,2,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,102 Event #120: K-1 W Open 200 Heat 2
+Rayne Tarasiuk,K1,200,Women,54.73,Heat,3,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,102 Event #120: K-1 W Open 200 Heat 2
+Adele Klee,K1,200,Women,63.18,Heat,4,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,102 Event #120: K-1 W Open 200 Heat 2
+Liz Erickson,K1,200,Women,65.35,Heat,5,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,102 Event #120: K-1 W Open 200 Heat 2
+Heide Eden,K1,200,Women,67.46,Heat,6,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,102 Event #120: K-1 W Open 200 Heat 2
+Zoe Nurmia,K1,200,Women,67.8,Heat,7,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,102 Event #120: K-1 W Open 200 Heat 2
+Mia Overton,K1,200,Women,69.99,Heat,8,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,102 Event #120: K-1 W Open 200 Heat 2
+Monica Varley,K1,200,Women,NA,Heat,SCR,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,102 Event #120: K-1 W Open 200 Heat 2
+Maggie Henderson,K1,200,Women,47.42,Heat,1,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,103 Event #120: K-1 W Open 200 Heat 3
+Kristin Bauder,K1,200,Women,48.01,Heat,2,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,103 Event #120: K-1 W Open 200 Heat 3
+Sara Armstrong,K1,200,Women,48.6,Heat,3,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,103 Event #120: K-1 W Open 200 Heat 3
+Annie Truscott,K1,200,Women,52.54,Heat,4,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,103 Event #120: K-1 W Open 200 Heat 3
+Jessie Mitchell,K1,200,Women,59.92,Heat,5,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,103 Event #120: K-1 W Open 200 Heat 3
+Virginia Kuran,K1,200,Women,64.9,Heat,6,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,103 Event #120: K-1 W Open 200 Heat 3
+Sara Mitchell,K1,200,Women,70.06,Heat,7,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,103 Event #120: K-1 W Open 200 Heat 3
+Bailey Nurmia,K1,200,Women,71.58,Heat,8,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,103 Event #120: K-1 W Open 200 Heat 3
+Evelyn Brown,K1,200,Women,72.42,Heat,9,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,103 Event #120: K-1 W Open 200 Heat 3
+Dion Maxwell,K1,200,Men,44.83,Semis,1,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,105 Event #117: K-1 M Open 200 Semifinal 1
+Aasim Saleh,K1,200,Men,45.56,Semis,2,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,105 Event #117: K-1 M Open 200 Semifinal 1
+Peter Turcan,K1,200,Men,46.49,Semis,3,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,105 Event #117: K-1 M Open 200 Semifinal 1
+Keith Kelleway,K1,200,Men,47.09,Semis,4,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,105 Event #117: K-1 M Open 200 Semifinal 1
+Jordan Trass,K1,200,Men,53.33,Semis,5,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,105 Event #117: K-1 M Open 200 Semifinal 1
+John George,K1,200,Men,58.73,Semis,6,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,105 Event #117: K-1 M Open 200 Semifinal 1
+Dan Bisalputra,K1,200,Men,65.36,Semis,7,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,105 Event #117: K-1 M Open 200 Semifinal 1
+John Flynn,K1,200,Men,100.92,Semis,8,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,105 Event #117: K-1 M Open 200 Semifinal 1
+Jeff Raymond,K1,200,Men,NA,Semis,DNS,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,105 Event #117: K-1 M Open 200 Semifinal 1
+Sean Franklin,K1,200,Men,43.8,Semis,1,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,106 Event #117: K-1 M Open 200 Semifinal 2
+Nicholas Toering,K1,200,Men,46.23,Semis,2,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,106 Event #117: K-1 M Open 200 Semifinal 2
+Ken Muir,K1,200,Men,47.34,Semis,3,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,106 Event #117: K-1 M Open 200 Semifinal 2
+Daryl Remmler,K1,200,Men,48.59,Semis,4,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,106 Event #117: K-1 M Open 200 Semifinal 2
+David Johnson,K1,200,Men,49.61,Semis,5,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,106 Event #117: K-1 M Open 200 Semifinal 2
+Adam Poole,K1,200,Men,56.64,Semis,6,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,106 Event #117: K-1 M Open 200 Semifinal 2
+Mica Leuba,K1,200,Men,60.41,Semis,7,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,106 Event #117: K-1 M Open 200 Semifinal 2
+Peter Benning,K1,200,Men,61.5,Semis,8,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,106 Event #117: K-1 M Open 200 Semifinal 2
+Thomas Sherman,K1,200,Men,78.4,Semis,9,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,106 Event #117: K-1 M Open 200 Semifinal 2
+Wes Hammer,K1,200,Men,47.17,Semis,1,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,107 Event #117: K-1 M Open 200 Semifinal 3
+Brock Rawstron,K1,200,Men,47.74,Semis,2,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,107 Event #117: K-1 M Open 200 Semifinal 3
+Elliot Hoyt,K1,200,Men,48.35,Semis,3,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,107 Event #117: K-1 M Open 200 Semifinal 3
+Guy Lawrence,K1,200,Men,50.03,Semis,4,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,107 Event #117: K-1 M Open 200 Semifinal 3
+Brian Hammer,K1,200,Men,53.95,Semis,5,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,107 Event #117: K-1 M Open 200 Semifinal 3
+Robert Estelle,K1,200,Men,56.51,Semis,6,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,107 Event #117: K-1 M Open 200 Semifinal 3
+Brian Malfesi,K1,200,Men,66.89,Semis,7,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,107 Event #117: K-1 M Open 200 Semifinal 3
+Grant Rawstron,K1,200,Men,67.6,Semis,8,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,107 Event #117: K-1 M Open 200 Semifinal 3
+Dave Muir,K1,200,Men,80.04,Semis,9,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,107 Event #117: K-1 M Open 200 Semifinal 3
+Sara Armstrong,K1,200,Women,52.48,Semis,1,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,109 Event #120: K-1 W Open 200 Semifinal 1
+Annie Truscott,K1,200,Women,53.81,Semis,2,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,109 Event #120: K-1 W Open 200 Semifinal 1
+Rayne Tarasiuk,K1,200,Women,54.8,Semis,3,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,109 Event #120: K-1 W Open 200 Semifinal 1
+Kiran Basra,K1,200,Women,57.04,Semis,4,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,109 Event #120: K-1 W Open 200 Semifinal 1
+Virginia Kuran,K1,200,Women,64.08,Semis,5,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,109 Event #120: K-1 W Open 200 Semifinal 1
+Sarah Poole,K1,200,Women,68.93,Semis,6,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,109 Event #120: K-1 W Open 200 Semifinal 1
+Liz Erickson,K1,200,Women,69.77,Semis,7,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,109 Event #120: K-1 W Open 200 Semifinal 1
+Mclane Harrington,K1,200,Women,70.8,Semis,8,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,109 Event #120: K-1 W Open 200 Semifinal 1
+Zoe Nurmia,K1,200,Women,75.76,Semis,9,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,109 Event #120: K-1 W Open 200 Semifinal 1
+Kristin Bauder,K1,200,Women,50.03,Semis,1,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,110 Event #120: K-1 W Open 200 Semifinal 2
+Dayna Ortner,K1,200,Women,54.06,Semis,2,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,110 Event #120: K-1 W Open 200 Semifinal 2
+Jessie Mitchell,K1,200,Women,59.45,Semis,3,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,110 Event #120: K-1 W Open 200 Semifinal 2
+Adele Klee,K1,200,Women,63.49,Semis,4,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,110 Event #120: K-1 W Open 200 Semifinal 2
+Jen Zimmerman,K1,200,Women,64.19,Semis,5,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,110 Event #120: K-1 W Open 200 Semifinal 2
+Heide Eden,K1,200,Women,66.65,Semis,6,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,110 Event #120: K-1 W Open 200 Semifinal 2
+Kathy Nay,K1,200,Women,67.26,Semis,7,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,110 Event #120: K-1 W Open 200 Semifinal 2
+Olivia Jensen,K1,200,Women,72.13,Semis,8,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,110 Event #120: K-1 W Open 200 Semifinal 2
+Sara Mitchell,K1,200,Women,72.78,Semis,9,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,110 Event #120: K-1 W Open 200 Semifinal 2
+Wes Hammer,K1,200,Men,38.64,Final,1,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,112 Event #117: K-1 M Open 200 Final
+Dion Maxwell,K1,200,Men,39.02,Final,2,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,112 Event #117: K-1 M Open 200 Final
+Sean Franklin,K1,200,Men,40.35,Final,3,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,112 Event #117: K-1 M Open 200 Final
+Aasim Saleh,K1,200,Men,41.45,Final,4,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,112 Event #117: K-1 M Open 200 Final
+Brock Rawstron,K1,200,Men,42.19,Final,5,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,112 Event #117: K-1 M Open 200 Final
+Peter Turcan,K1,200,Men,42.55,Final,6,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,112 Event #117: K-1 M Open 200 Final
+Ken Muir,K1,200,Men,43.25,Final,7,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,112 Event #117: K-1 M Open 200 Final
+Elliot Hoyt,K1,200,Men,44.88,Final,8,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,112 Event #117: K-1 M Open 200 Final
+Nicholas Toering,K1,200,Men,46.44,Final,9,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,112 Event #117: K-1 M Open 200 Final
+Maggie Henderson,K1,200,Women,44.93,Final,1,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,113 Event #120: K-1 W Open 200 Final
+Katrina Batina,K1,200,Women,45.23,Final,2,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,113 Event #120: K-1 W Open 200 Final
+Kristin Bauder,K1,200,Women,45.8,Final,3,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,113 Event #120: K-1 W Open 200 Final
+Sara Armstrong,K1,200,Women,46.16,Final,4,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,113 Event #120: K-1 W Open 200 Final
+Rayne Tarasiuk,K1,200,Women,50.24,Final,5,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,113 Event #120: K-1 W Open 200 Final
+Dayna Ortner,K1,200,Women,50.55,Final,6,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,113 Event #120: K-1 W Open 200 Final
+Annie Truscott,K1,200,Women,51.33,Final,7,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,113 Event #120: K-1 W Open 200 Final
+Katja Rademacher,K1,200,Women,55.29,Final,8,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,113 Event #120: K-1 W Open 200 Final
+Jessie Mitchell,K1,200,Women,57.88,Final,9,Open,Houk 2006,6,18,2006,yes, ,Ted Houk Memorial Regatta,113 Event #120: K-1 W Open 200 Final

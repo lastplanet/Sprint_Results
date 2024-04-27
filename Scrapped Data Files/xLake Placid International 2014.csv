@@ -1,0 +1,45 @@
+name,boat,event,gender,time,type,finish,level,venue,month,day,year,certified,notes,venue.long,race.name
+Azusa Murphy,C1,200,Women,58.22,final,1st,U16,LPI 2014,7,6,2014,yes,NA,NA,NA
+Azusa Murphy,C1,200,Women,59.69,final,6th,U18,LPI 2014,7,6,2014,yes,NA,NA,NA
+Azusa Murphy,C1,200,Women,56.98,heat,1st,U16,LPI 2014,7,6,2014,yes,NA,NA,NA
+Azusa Murphy,C1,200,Women,58.18,heat,3rd,U18,LPI 2014,7,6,2014,yes,NA,NA,NA
+Azusa Murphy,C1,500,Women,156.04,final,1st,U16,LPI 2014,7,6,2014,yes,NA,NA,NA
+Azusa Murphy,C1,500,Women,167.36,final,7th,U18,LPI 2014,7,6,2014,yes,NA,NA,NA
+Azusa Murphy,C1,500,Women,168.8,heat,1st,U16,LPI 2014,7,6,2014,yes,NA,NA,NA
+Azusa Murphy,C1,500,Women,169.83,heat,4th,U18,LPI 2014,7,6,2014,yes,NA,NA,NA
+Clay Baker,K1,200,Men,43.77,final,3rd,NA,LPI 2014,7,1,2014,yes,NA,NA,NA
+Clay Baker,K1,200,Men,43.85,heat,2nd,NA,LPI 2014,7,1,2014,yes,NA,NA,NA
+Clay Baker,K1,1000,Men,265.8,final,7th,NA,LPI 2014,7,1,2014,yes,NA,NA,NA
+Clay Baker,K1,1000,Men,272.52,heat,3rd,NA,LPI 2014,7,1,2014,yes,NA,NA,NA
+Evan Truesdale,K1,200,Men,52.09,heat,9th,NA,LPI 2014,7,1,2014,yes,NA,NA,NA
+Evan Truesdale,K1,1000,Men,270.25,final,9th,NA,LPI 2014,7,1,2014,yes,NA,NA,NA
+Evan Truesdale,K1,1000,Men,274.5,heat,3rd,NA,LPI 2014,7,1,2014,yes,NA,NA,NA
+Garrett Wampler,K1,200,Men,47.86,heat,7th,NA,LPI 2014,7,1,2014,yes,NA,NA,NA
+Garrett Wampler,K1,1000,Men,292.7,heat,6th,NA,LPI 2014,7,1,2014,yes,NA,NA,NA
+Kaley Martin,C1,200,Men,68.95,final,7th,NA,LPI 2014,7,6,2014,yes,NA,NA,NA
+Kyle Field,K1,200,Men,45.19,heat,5th,NA,LPI 2014,7,1,2014,yes,NA,NA,NA
+Kyle Field,K1,1000,Men,255.07,final,4th,NA,LPI 2014,7,1,2014,yes,NA,NA,NA
+Kyle Field,K1,1000,Men,262.91,heat,2nd,NA,LPI 2014,7,1,2014,yes,NA,NA,NA
+Lydia Keefe-Sampson,C1,200,Women,56.21,final,1st,NA,LPI 2014,7,6,2014,yes,NA,NA,NA
+Lydia Keefe-Sampson,C1,200,Women,58.73,final,3rd,NA,LPI 2014,7,6,2014,yes,NA,NA,NA
+Makenzie Soiusley,C1,200,Women,60.11,final,5th,NA,LPI 2014,7,6,2014,yes,NA,NA,NA
+Makenzie Soiusley,C1,200,Women,62.58,final,9th,U18,LPI 2014,7,6,2014,yes,NA,NA,NA
+Miles Cross-Whiter,K1,200,Men,42.03,NA,NA,NA,LPI 2014,7,1,2014,yes,NA,NA,NA
+Miles Cross-Whiter,K1,200,Men,42.93,NA,NA,NA,LPI 2014,7,1,2014,yes,NA,NA,NA
+Miles Cross-Whiter,K1,1000,Men,248.41,NA,NA,NA,LPI 2014,7,1,2014,yes,NA,NA,NA
+Miles Cross-Whiter,K1,1000,Men,265.56,NA,NA,NA,LPI 2014,7,1,2014,yes,NA,NA,NA
+Miles Cross-Whiter; Nate Errez,K2,200,Men,36.84,NA,NA,NA,LPI 2014,7,1,2014,yes,NA,NA,NA
+Miles Cross-Whiter; Nate Errez,K2,200,Men,37.09,NA,NA,NA,LPI 2014,7,1,2014,yes,NA,NA,NA
+Miles Cross-Whiter; Nate Errez,K2,200,Men,37.15,NA,NA,NA,LPI 2014,7,1,2014,yes,NA,NA,NA
+Miles Cross-Whiter; Nate Errez,K2,200,Men,38.01,NA,NA,NA,LPI 2014,7,1,2014,yes,NA,NA,NA
+Miles Cross-Whiter; Nate Errez,K2,1000,Men,231.05,NA,NA,NA,LPI 2014,7,1,2014,yes,NA,NA,NA
+Miles Cross-Whiter; Nate Errez,K2,1000,Men,235.71,NA,NA,NA,LPI 2014,7,1,2014,yes,NA,NA,NA
+Myles Baker,K1,1000,Men,283.29,heat,5th,NA,LPI 2014,7,1,2014,yes,NA,NA,NA
+Nate Errez,K1,200,Men,43.06,NA,NA,NA,LPI 2014,7,1,2014,yes,NA,NA,NA
+Nate Errez,K1,200,Men,45.54,NA,NA,NA,LPI 2014,7,1,2014,yes,NA,NA,NA
+Nate Errez,K1,1000,Men,268.66,NA,NA,NA,LPI 2014,7,1,2014,yes,NA,NA,NA
+Nate Errez,K1,1000,Men,271.79,NA,NA,NA,LPI 2014,7,1,2014,yes,NA,NA,NA
+Owen Farley-Klacik,K1,200,Men,44.17,final,4th,NA,LPI 2014,7,1,2014,yes,NA,NA,NA
+Owen Farley-Klacik,K1,200,Men,43.48,heat,NA,NA,LPI 2014,7,1,2014,yes,NA,NA,NA
+Owen Farley-Klacik,K1,1000,Men,254.46,final,3rd,NA,LPI 2014,7,1,2014,yes,NA,NA,NA
+Owen Farley-Klacik,K1,1000,Men,260.78,heat,1st,NA,LPI 2014,7,1,2014,yes,NA,NA,NA
