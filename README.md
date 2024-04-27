@@ -4,12 +4,13 @@ US Sprint Canoe and Kayak Results for the LastPlanet Canoe Kayak results app.  h
 
 ## To update results
 
-1. Navigate to the Results repository
-2. Create a folder for the regatta or event and put the original files there as a record.
-3. Copy one of the csv files in the `Scrapped Data Files` directory to use as a template.
-4. Give the file a short but distinctive name. See other files for examples.
-5. Fill in results. Results can be partial. Only some paddlers or only some events. Add "partial" to file name if results are partial.
-6. Enter the name in the results exactly as used in the official results. So if name in results "Blow, Joe" for "Joseph Blow" then enter "Blow, Joe" in the results csv.
+1. Click the + to add a new file. To add a new directory for a new regatta, make the file something like `new regatta 2024/README.md` and add some info about what is in the folder and who added the files.
+2. Then upload the original regatta results files into the directory as a record.
+4. Copy one of the csv files in the `Scrapped Data Files` directory to use as a template. You can download a raw files on to your computer.
+5. Give the file a short but distinctive name. See other files for examples.
+6. Fill in results. Results can be partial. Only some paddlers or only some events. Add "partial" to file name if results are partial.
+7. Enter the name in the results exactly as used in the official results. So if name in results "Blow, Joe" for "Joseph Blow" then enter "Blow, Joe" in the results csv.
+8. When done, upload the file to `Scrapped Data Files` directory. Later you can edit the file directory on GitHub.
 
 ## Update the paddlers
 
